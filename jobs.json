@@ -1,1 +1,4797 @@
-[]
+[
+  {
+    "company": "Waymo",
+    "role": "Foundation Model Data, Software Engineer",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA",
+    "type": "Full-time",
+    "posted": "2026-06-29",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8031883",
+    "skills": [
+      "python",
+      "c++",
+      "jax",
+      "distributed systems",
+      "ml_infra",
+      "data pipelines"
+    ]
+  },
+  {
+    "company": "Plex Systems, Inc.",
+    "role": "AI Delivery Manager",
+    "location": "Singapore, Singapore",
+    "type": "Full-time",
+    "posted": "2026-06-29",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/AI-Engineer_R26-2977-1",
+    "skills": [
+      "python",
+      "generative_ai",
+      "llm",
+      "rag",
+      "agent_orchestration",
+      "prompt_engineering"
+    ]
+  },
+  {
+    "company": "Philips Health Technology Innovation Paris",
+    "role": "Stage Ingénieur.e R&D – Intégration de l’Intelligence Artificielle dans la Conception d’Applications Médicales",
+    "location": "Paris (FR)",
+    "type": "Full-time",
+    "posted": "2026-06-29",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Paris-FR/Stage-Ingnieure-R-D---Intgration-de-l-Intelligence-Artificielle-dans-la-Conception-d-Applications-Mdicales_579055-1",
+    "skills": [
+      "llm",
+      "generative ai",
+      "python",
+      "api development",
+      "git",
+      "azure devops"
+    ]
+  },
+  {
+    "company": "Anduril Industries",
+    "role": "AI Sorcerer",
+    "location": "Costa Mesa, California, United States",
+    "type": "Full-time",
+    "posted": "2026-06-28",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5101597007?gh_jid=5101597007",
+    "skills": [
+      "python",
+      "llm",
+      "agent",
+      "prompt_engineering",
+      "computer_vision",
+      "sensor_fusion"
+    ]
+  },
+  {
+    "company": "Ro",
+    "role": "Senior AI Product Engineer",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "posted": "2026-06-27",
+    "url": "https://jobs.lever.co/ro/5641c1f4-c126-42eb-b2f5-1b228d77a5db/apply",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "prompt_engineering",
+      "python",
+      "api_integration"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "role": "Senior Staff Applied AI Engineer - Context Retrieval",
+    "location": "Mountain View, California; San Francisco, California",
+    "type": "Full-time",
+    "posted": "2026-06-27",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002",
+    "skills": [
+      "rag",
+      "llm",
+      "agents",
+      "information retrieval",
+      "vector databases",
+      "ann"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "role": "Staff Machine Learning Engineer ",
+    "location": "San Francisco, California",
+    "type": "Full-time",
+    "posted": "2026-06-27",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002",
+    "skills": [
+      "python",
+      "tensorflow",
+      "pytorch",
+      "llm",
+      "generative_ai",
+      "rag"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "role": "Staff Software Engineer - GenAI inference",
+    "location": "San Francisco, California",
+    "type": "Full-time",
+    "posted": "2026-06-27",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8202698002",
+    "skills": [
+      "cuda",
+      "gpu_programming",
+      "inference_optimization",
+      "llm_inference",
+      "distributed_systems",
+      "performance_optimization"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "role": "Software Engineer - GenAI inference ",
+    "location": "San Francisco, California",
+    "type": "Full-time",
+    "posted": "2026-06-27",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002",
+    "skills": [
+      "llm",
+      "inference optimization",
+      "cuda",
+      "gpu programming",
+      "distributed systems",
+      "performance tuning"
+    ]
+  },
+  {
+    "company": "Databricks",
+    "role": "Senior Machine Learning Engineer - GenAI Platform ",
+    "location": "San Francisco, California",
+    "type": "Full-time",
+    "posted": "2026-06-27",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002",
+    "skills": [
+      "python",
+      "scala",
+      "go",
+      "c++",
+      "distributed systems",
+      "ml platform"
+    ]
+  },
+  {
+    "company": "Amplitude",
+    "role": "Senior AI Engineer",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8611081002",
+    "skills": [
+      "python",
+      "llm",
+      "ai",
+      "machine learning",
+      "agent frameworks",
+      "retrieval augmented generation"
+    ]
+  },
+  {
+    "company": "Netskope",
+    "role": "Machine Learning Engineer – AI Labs",
+    "location": "Santa Clara, California, United States",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8029592",
+    "skills": [
+      "python",
+      "vllm",
+      "sglang",
+      "tensorrt-llm",
+      "kv cache optimization",
+      "llm"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "role": "Engineering Manager, AI Conversation Platform",
+    "location": "Toronto, Canada",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "https://stripe.com/jobs/search?gh_jid=7943804",
+    "skills": [
+      "llm",
+      "rag",
+      "mlops",
+      "python",
+      "machine learning",
+      "team leadership"
+    ]
+  },
+  {
+    "company": "Stripe",
+    "role": "Internal Product Engineer, Developer Productivity AI ",
+    "location": "Toronto, Canada ",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "https://stripe.com/jobs/search?gh_jid=7896151",
+    "skills": [
+      "python",
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "developer_tooling",
+      "software_engineering"
+    ]
+  },
+  {
+    "company": "Ro",
+    "role": "Senior AI Engineer",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "https://jobs.lever.co/ro/81dd41da-ba24-435b-83c4-bd19a312744b/apply",
+    "skills": [
+      "python",
+      "llm_engineer",
+      "agent_orchestration",
+      "rag",
+      "llm_evaluations",
+      "prompt_engineering"
+    ]
+  },
+  {
+    "company": "AuditBoard",
+    "role": "Senior Machine Learning Engineer I, AI Governance (Remote USA)",
+    "location": "Canada",
+    "type": "FullTime",
+    "posted": "2026-06-26",
+    "url": "https://jobs.ashbyhq.com/optro/da67948c-a896-40d2-a9eb-89e4e810905e/application",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "prompt_engineering",
+      "fine_tuning",
+      "semantic_search"
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "role": "Agent Post-Training, Personality",
+    "location": "San Francisco",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "https://jobs.ashbyhq.com/openai/3302ceaf-f6ca-4803-9846-7fff7ad48a0d/application",
+    "skills": [
+      "python",
+      "machine_learning",
+      "rlhf",
+      "llm",
+      "data_analysis",
+      "behavioral_science"
+    ]
+  },
+  {
+    "company": "Canva",
+    "role": "AI Localisation Program Manager - 12 Month Contract ",
+    "location": "Sydney, , Australia",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "",
+    "skills": [
+      "llm",
+      "prompt engineering",
+      "translation quality evaluation",
+      "RAG",
+      "LoRA",
+      "evals"
+    ]
+  },
+  {
+    "company": "Philips Health Technology Innovation Paris",
+    "role": "AI/LLM Application Architect",
+    "location": "Shenyang",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenyang/AI-LLM-Application-Architect_586948",
+    "skills": [
+      "llm",
+      "rag",
+      "agent_orchestration",
+      "prompt_engineering",
+      "model_governance",
+      "api_integration"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Staff Machine Learning Engineer",
+    "location": "San Jose",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Machine-Learning-Engineer_R169998-1",
+    "skills": [
+      "llm",
+      "multimodal",
+      "representation learning",
+      "retrieval systems",
+      "ranking models",
+      "transformer architectures"
+    ]
+  },
+  {
+    "company": "Philips Health Technology Innovation Paris",
+    "role": "AI/LLM Application Engineer",
+    "location": "Shenyang",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenyang/AI-LLM-Application-Engineer_586949-1",
+    "skills": [
+      "python",
+      "rag",
+      "llm",
+      "agents",
+      "api",
+      "backend"
+    ]
+  },
+  {
+    "company": "Workday",
+    "role": "Senior Machine Learning Engineer/Machine Learning Engineer III",
+    "location": "USA, WA, Seattle",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-WA-Seattle/Senior-Machine-Learning-Engineer-Machine-Learning-Engineer-III_JR-0107996",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "pytorch",
+      "tensorflow",
+      "aws"
+    ]
+  },
+  {
+    "company": "Philips Health Technology Innovation Paris",
+    "role": "AI/LLM Application Engineer",
+    "location": "Shenyang",
+    "type": "Full-time",
+    "posted": "2026-06-26",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenyang/AI-LLM-Application-Engineer_586950",
+    "skills": [
+      "python",
+      "rag",
+      "llm",
+      "agents",
+      "api",
+      "backend"
+    ]
+  },
+  {
+    "company": "Mistral AI",
+    "role": "Senior/Staff Applied AI,  Machine Learning Engineer",
+    "location": "Seoul",
+    "type": "Full-time",
+    "posted": "2026-06-25",
+    "url": "https://jobs.lever.co/mistral/b985502a-2334-4934-aaf3-8da6501257d0/apply",
+    "skills": [
+      "llm",
+      "fine-tuning",
+      "rag",
+      "agents",
+      "mlops",
+      "cloud_infrastructure"
+    ]
+  },
+  {
+    "company": "Rubrik",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Palo Alto, CA",
+    "type": "Full-time",
+    "posted": "2026-06-25",
+    "url": "https://www.rubrik.com/company/careers/departments/job.7942501?gh_jid=7942501",
+    "skills": [
+      "python",
+      "pytorch",
+      "llm",
+      "transformer",
+      "distributed_training",
+      "inference_optimization"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "role": "Director of Engineering - AI for Roblox Studio",
+    "location": "San Mateo, CA, United States",
+    "type": "Full-time",
+    "posted": "2026-06-25",
+    "url": "https://careers.roblox.com/jobs/7595328?gh_jid=7595328",
+    "skills": [
+      "agentic systems",
+      "LLM",
+      "IDE development",
+      "platform architecture",
+      "large-scale systems",
+      "production reliability"
+    ]
+  },
+  {
+    "company": "Stuut",
+    "role": "Member of the Technical Staff — AI/ML",
+    "location": "San Francisco",
+    "type": "Full-time",
+    "posted": "2026-06-25",
+    "url": "https://jobs.ashbyhq.com/stuut-ai/37cc28af-0ce7-4ddb-a099-6fb88b0b593f/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "rag",
+      "llm",
+      "mlops",
+      "transformer"
+    ]
+  },
+  {
+    "company": "CrowdStrike",
+    "role": "Senior Engineer - Data (Remote, ROU)",
+    "location": "Romania - Remote",
+    "type": "Full-time",
+    "posted": "2026-06-25",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Romania---Remote/Manager--Data-Science--Remote--ESP-_R25800-1",
+    "skills": [
+      "llm",
+      "generative_ai",
+      "python",
+      "go",
+      "rust",
+      "distributed_systems"
+    ]
+  },
+  {
+    "company": "HP Enterprise",
+    "role": "Generative AI Engineer",
+    "location": "Bengaluru, Karnātaka, India",
+    "type": "Full-time",
+    "posted": "2026-06-25",
+    "url": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Bengaluru-Karntaka-India/Generative-AI-Engineer_1208999-1",
+    "skills": [
+      "python",
+      "generative_ai",
+      "llm",
+      "rag",
+      "langchain",
+      "llamaindex"
+    ]
+  },
+  {
+    "company": "Datasite",
+    "role": "Director of AI/ML -Grata",
+    "location": "USA - NY - New York City - BlueFlame AI / Grata",
+    "type": "Full-time",
+    "posted": "2026-06-25",
+    "url": "https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City---BlueFlame-AI--Grata/Director-of-AI-ML--Grata_R36223",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "fine-tuning",
+      "evaluation",
+      "prompting"
+    ]
+  },
+  {
+    "company": "Palo Alto Networks",
+    "role": "Senior Principal Engineer Software (AI Ops)",
+    "location": "Santa Clara, United States of America",
+    "type": "Full-time",
+    "posted": "2026-06-25",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Principal-Engineer-Software--AI-Ops-_JR-014481",
+    "skills": [
+      "python",
+      "langgraph",
+      "temporal",
+      "elasticsearch",
+      "opensearch",
+      "vector_databases"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "role": "Senior AI Engineer - LLM Evaluation",
+    "location": "Bengaluru, IND",
+    "type": "Full-time",
+    "posted": "2026-06-25",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/ext/job/Bengaluru-IND/Senior-GenAI-Engineer_26WD98447-1",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "agents",
+      "llm_evaluation",
+      "model_benchmarking"
+    ]
+  },
+  {
+    "company": "Zoom",
+    "role": "AI Software Engineer",
+    "location": "Seattle (WA)",
+    "type": "Full-time",
+    "posted": "2026-06-25",
+    "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Seattle-WA/AI-Software-Engineer_R15882-1",
+    "skills": [
+      "CUDA",
+      "Python",
+      "C++",
+      "LLM Inference",
+      "Transformer Models",
+      "Multimodal Models"
+    ]
+  },
+  {
+    "company": "Smartsheet",
+    "role": "Senior Software Engineer II - AI Engineering (Remote Eligible)",
+    "location": " -REMOTE, USA-",
+    "type": "Full-time",
+    "posted": "2026-06-24",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8027418",
+    "skills": [
+      "llm_engineer",
+      "agent_engineer",
+      "rag_pipelines",
+      "prompt_engineering",
+      "llm_evaluation",
+      "python"
+    ]
+  },
+  {
+    "company": "Instacart",
+    "role": "Senior Software Engineer I — Agentic Analytics",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "type": "Full-time",
+    "posted": "2026-06-24",
+    "url": "https://instacart.careers/job/?gh_jid=7979769",
+    "skills": [
+      "python",
+      "sql",
+      "llm",
+      "rag",
+      "airflow",
+      "snowflake"
+    ]
+  },
+  {
+    "company": "Instacart",
+    "role": "Senior Machine Learning Engineer II, Fulfillment, Matching and Positioning",
+    "location": "United States - Remote",
+    "type": "Full-time",
+    "posted": "2026-06-24",
+    "url": "https://instacart.careers/job/?gh_jid=7979719",
+    "skills": [
+      "python",
+      "sql",
+      "docker",
+      "kubernetes",
+      "gcp",
+      "aws"
+    ]
+  },
+  {
+    "company": "Talkiatry",
+    "role": "Senior AI Engineer",
+    "location": "Remote",
+    "type": "Full-time",
+    "posted": "2026-06-24",
+    "url": "https://jobs.ashbyhq.com/talkiatry/92639031-ee44-4f82-adb5-04ee67b618c9/application",
+    "skills": [
+      "python",
+      "typescript",
+      "react",
+      "nextjs",
+      "nodejs",
+      "kubernetes"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "role": "Staff AI Engineer - Data Visualization",
+    "location": "Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Nice, France; Paris, France; Sophia Antipolis, France",
+    "type": "Full-time",
+    "posted": "2026-06-24",
+    "url": "https://careers.datadoghq.com/detail/8015588/?gh_jid=8015588",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "prompt_engineering",
+      "llm_evaluation",
+      "conversational_ai"
+    ]
+  },
+  {
+    "company": "Gorgias",
+    "role": "Principal AI Engineer",
+    "location": "Belgrade",
+    "type": "Full-time",
+    "posted": "2026-06-24",
+    "url": "https://jobs.ashbyhq.com/gorgias/4245b9a7-8ab1-46ee-967e-206c1b0bfb95/application",
+    "skills": [
+      "python",
+      "distributed_systems",
+      "event_driven_architecture",
+      "llm",
+      "rag",
+      "agents"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Sr. Machine Learning Engineer 4",
+    "location": "San Jose",
+    "type": "Full-time",
+    "posted": "2026-06-24",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer-4_R167301",
+    "skills": [
+      "python",
+      "generative ai",
+      "llm",
+      "agent orchestration",
+      "rag",
+      "mlops"
+    ]
+  },
+  {
+    "company": "Motorola Solutions",
+    "role": "AI Solutions Developer",
+    "location": "Illinois, US Offsite",
+    "type": "Full-time",
+    "posted": "2026-06-24",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-US-Offsite/AI-Solutions-Developer_R66123-1",
+    "skills": [
+      "llm",
+      "agents",
+      "gemini",
+      "agentforce",
+      "salesforce",
+      "python"
+    ]
+  },
+  {
+    "company": "Workday",
+    "role": "Senior/Principal AI Engineer",
+    "location": "USA, GA, Atlanta",
+    "type": "Full-time",
+    "posted": "2026-06-24",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Senior-Principal-Machine-Learning-Engineer_JR-0105599",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "pytorch",
+      "tensorflow",
+      "aws"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Staff Machine Learning Engineer, Community Support Engineering",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "posted": "2026-06-23",
+    "url": "https://careers.airbnb.com/positions/8024316?gh_jid=8024316",
+    "skills": [
+      "llm",
+      "rag",
+      "agentic_ai",
+      "llm_fine_tuning",
+      "llm_evaluation",
+      "python"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Machine Learning Engineer, Community Support Engineering",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "posted": "2026-06-23",
+    "url": "https://careers.airbnb.com/positions/8024267?gh_jid=8024267",
+    "skills": [
+      "LLM",
+      "Agentic AI",
+      "RAG",
+      "SFT",
+      "RLHF",
+      "LLM evaluation"
+    ]
+  },
+  {
+    "company": "Klaviyo",
+    "role": "Senior AI Application Engineer",
+    "location": "Boston, MA",
+    "type": "Full-time",
+    "posted": "2026-06-23",
+    "url": "https://www.klaviyo.com/careers/jobs/7688488003?gh_jid=7688488003",
+    "skills": [
+      "python",
+      "typescript",
+      "javascript",
+      "gpt-4",
+      "claude",
+      "mistral"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Senior Machine Learning Engineer, Customer Support Engineering",
+    "location": "Remote-USA",
+    "type": "Full-time",
+    "posted": "2026-06-23",
+    "url": "https://careers.airbnb.com/positions/8014904?gh_jid=8014904",
+    "skills": [
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "rag",
+      "fine_tuning",
+      "rlhf"
+    ]
+  },
+  {
+    "company": "d-Matrix Corporation",
+    "role": "Senior Staff ML Researcher - LLM Algorithmic Optimization",
+    "location": "Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-23",
+    "url": "https://jobs.ashbyhq.com/d-matrix/59e6acf8-2d7c-4aa0-a2af-aa9f27d4d31e/application",
+    "skills": [
+      "python",
+      "llm",
+      "transformer",
+      "generative_ai"
+    ]
+  },
+  {
+    "company": "Pinterest",
+    "role": "Sr. Machine Learning Engineer, Content Shopping",
+    "location": "Toronto, ON, CA",
+    "type": "Full-time",
+    "posted": "2026-06-23",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5691478",
+    "skills": [
+      "python",
+      "machine learning",
+      "llm",
+      "nlp",
+      "recsys",
+      "fine-tuning"
+    ]
+  },
+  {
+    "company": "Coupa Software",
+    "role": "Sr. Lead AI Engineer",
+    "location": "Foster City, CA, United States",
+    "type": "Full-time",
+    "posted": "2026-06-23",
+    "url": "https://jobs.lever.co/coupa/af64cece-6226-431c-aaf6-459f4a2dba17/apply",
+    "skills": [
+      "llm_fine_tuning",
+      "lora",
+      "qlora",
+      "peft",
+      "transformer_architectures",
+      "pytorch"
+    ]
+  },
+  {
+    "company": "Seequalis",
+    "role": "Python Developer",
+    "location": "Milan, Lombardy, Italy",
+    "type": "Full-time",
+    "posted": "2026-06-23",
+    "url": "",
+    "skills": [
+      "python",
+      "llm",
+      "graphrag",
+      "rag",
+      "agents",
+      "generative_ai"
+    ]
+  },
+  {
+    "company": "Tessan",
+    "role": "Stage - Ingénieur IA (H/F)",
+    "location": "Siège - Tessan",
+    "type": "Internship",
+    "posted": "2026-06-23",
+    "url": "https://carriere.tessan.io/o/stage-ingenieur-ia-hf/c/new",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "function_calling",
+      "prompt_engineering",
+      "llm_evaluation"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Engineering Manager, LLM Performance",
+    "location": "US, CA, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-23",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Manager--LLM-Performance_JR2019950",
+    "skills": [
+      "llm",
+      "vlm",
+      "inference optimization",
+      "performance tuning",
+      "python",
+      "c++"
+    ]
+  },
+  {
+    "company": "TeamSystem",
+    "role": "AI Software Engineer",
+    "location": "Italy, Pesaro",
+    "type": "Light Friday",
+    "posted": "2026-06-23",
+    "url": "https://teamsystem.wd103.myworkdayjobs.com/TeamSystem/job/Italy-Pesaro/AI-Software-Engineer_JR0000001638",
+    "skills": [
+      "python",
+      "machine_learning",
+      "llm",
+      "rag",
+      "agents",
+      "prompt_engineering"
+    ]
+  },
+  {
+    "company": "Snap Inc.",
+    "role": "Machine Learning Engineer, Generative ML , Level 5",
+    "location": "Los Angeles, California",
+    "type": "Full-time",
+    "posted": "2026-06-23",
+    "url": "https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Machine-Learning-Engineer--Generative-ML---Level-5_R0045797-1",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "generative models",
+      "diffusion models",
+      "llm"
+    ]
+  },
+  {
+    "company": "Waymo",
+    "role": "Senior Staff Machine Learning Engineer, LLM/VLM Model Architecture & Optimization",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA; ",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8022298",
+    "skills": [
+      "llm",
+      "vlm",
+      "model architecture",
+      "model optimization",
+      "on-device inference",
+      "hardware acceleration"
+    ]
+  },
+  {
+    "company": "Gusto",
+    "role": "Retirement AI Staff Engineer",
+    "location": "Denver, CO;San Francisco, CA;New York, NY",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7986047",
+    "skills": [
+      "python",
+      "ruby",
+      "react",
+      "llm",
+      "rag"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Remote - India",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.coinbase.com/careers/positions/7739592?gh_jid=7739592",
+    "skills": [
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "langgraph",
+      "langsmith",
+      "vertex_ai"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "role": "Engineering Manager - Customer Experience AI",
+    "location": "Remote - India",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.coinbase.com/careers/positions/7741187?gh_jid=7741187",
+    "skills": [
+      "llm_engineer",
+      "agent_orchestration",
+      "rag_pipelines",
+      "prompt_engineering",
+      "llm_fine_tuning",
+      "model_evaluation"
+    ]
+  },
+  {
+    "company": "Legora",
+    "role": "Software Engineer (AI Focus)",
+    "location": "Stockholm HQ",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://jobs.ashbyhq.com/legora/f81a4b5e-7ef3-4946-a147-f6c0645e98ca/application",
+    "skills": [
+      "python",
+      "react",
+      "node.js",
+      "aws",
+      "azure",
+      "kubernetes"
+    ]
+  },
+  {
+    "company": "Lovable",
+    "role": "Research Engineering Lead",
+    "location": "Stockholm",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://jobs.ashbyhq.com/lovable/79e04665-0e50-45f8-92e3-9237bcb4e0bc/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "llm",
+      "transformer_models",
+      "code_generation",
+      "data_augmentation"
+    ]
+  },
+  {
+    "company": "Character.AI",
+    "role": "Principal Research Engineer, Post-Training",
+    "location": "Redwood City, CA",
+    "type": "FullTime",
+    "posted": "2026-06-22",
+    "url": "https://jobs.ashbyhq.com/character/cab23a8b-97ba-4b20-a8e3-f7d9a61e13f4/application",
+    "skills": [
+      "python",
+      "transformers",
+      "reinforcement_learning",
+      "llm",
+      "pytorch",
+      "kubernetes"
+    ]
+  },
+  {
+    "company": "Wise",
+    "role": "Software Engineer - Generative AI Platform",
+    "location": "Tallinn, , Estonia",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "",
+    "skills": [
+      "python",
+      "llm",
+      "agent_orchestration",
+      "prompt_engineering",
+      "generative_ai",
+      "microservices"
+    ]
+  },
+  {
+    "company": "Wise",
+    "role": "Senior Software Engineer - Generative AI Platform",
+    "location": "Tallinn, , Estonia",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "",
+    "skills": [
+      "python",
+      "llm",
+      "agent_orchestration",
+      "prompt_engineering",
+      "generative_ai",
+      "microservices"
+    ]
+  },
+  {
+    "company": "Intel",
+    "role": "Inference Optimization Engineer (local / edge runtime)",
+    "location": "US, California, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Inference-Optimization-Engineer--local---edge-runtime-_JR0284871",
+    "skills": [
+      "inference optimization",
+      "llama.cpp",
+      "vLLM",
+      "kv cache",
+      "batching",
+      "quantization"
+    ]
+  },
+  {
+    "company": "Remitly",
+    "role": "Staff Machine Learning Engineer",
+    "location": "Seattle, Washington United States",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/Staff-Machine-Learning-Engineer_R_106404",
+    "skills": [
+      "python",
+      "go",
+      "scala",
+      "pytorch",
+      "scikit-learn",
+      "numpy"
+    ]
+  },
+  {
+    "company": "Euronext",
+    "role": "GenAI Trainee",
+    "location": "Porto",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Porto/GenAI-Trainee_R27615",
+    "skills": [
+      "python",
+      "git",
+      "machine learning",
+      "deep learning",
+      "generative ai",
+      "llm"
+    ]
+  },
+  {
+    "company": "Intel",
+    "role": "Machine Learning Engineer",
+    "location": "US, California, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Machine-Learning-Engineer_JR0284870",
+    "skills": [
+      "python",
+      "llm",
+      "agent_orchestration",
+      "reinforcement_learning",
+      "model_fine_tuning",
+      "rlhf"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "SDE -2 ( Python & Gen AI )",
+    "location": "Noida",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/SDE--2---Python---Gen-AI--_R169874-1",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "agent_orchestration",
+      "vector_databases",
+      "embeddings"
+    ]
+  },
+  {
+    "company": "Tricentis",
+    "role": "Principal AI Software Engineer",
+    "location": "Austin, Texas",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://tricentis.wd1.myworkdayjobs.com/Tricentis_Careers/job/Austin-Texas/Principal-AI-Software-Engineer_JR105816-1",
+    "skills": [
+      "python",
+      "llm_system_design",
+      "llm_deployment",
+      "llm_reliability",
+      "llm_evaluation",
+      "agentic_frameworks"
+    ]
+  },
+  {
+    "company": "Euronext",
+    "role": "Gen AI Trainee",
+    "location": "Porto",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Porto/Gen-AI-Trainee_R27057",
+    "skills": [
+      "python",
+      "generative ai",
+      "llm",
+      "agents",
+      "chatbots",
+      "machine learning"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Senior AI Application Developer - GPU and SOC Architecture Modeling",
+    "location": "US, CA, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-21",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Application-Developer---GPU-and-SOC-Architecture-Modeling_JR2019994",
+    "skills": [
+      "python",
+      "c++",
+      "llm",
+      "agents",
+      "langchain",
+      "langsmith"
+    ]
+  },
+  {
+    "company": "CI&T",
+    "role": "[Job-29944] AI Engineer Senior (Javascript/React)",
+    "location": "Brasília",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://jobs.lever.co/ciandt/81b12639-a9c8-4d83-a9f3-4d992f7c7c89/apply",
+    "skills": [
+      "generative_ai",
+      "llm",
+      "rag",
+      "vector_databases",
+      "embeddings",
+      "ai_agents"
+    ]
+  },
+  {
+    "company": "Betclic Group",
+    "role": "GenAI Platform & Capabilities Manager F/M",
+    "location": "Bordeaux, FR",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://betclic-group.breezy.hr/p/bf4b3bdc707401-genai-platform-capabilities-manager-f-m",
+    "skills": [
+      "llm",
+      "rag",
+      "agents",
+      "agent_orchestration",
+      "mlops",
+      "evals"
+    ]
+  },
+  {
+    "company": "Mozilla",
+    "role": "Senior Machine Learning Engineer, Applied AI Modeling",
+    "location": "Remote US",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://job-boards.greenhouse.io/mozilla/jobs/8017587",
+    "skills": [
+      "llm",
+      "generative_ai",
+      "nlp",
+      "rag",
+      "prompt_engineering",
+      "embedding_retrieval"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Principal Engineer AI/ML",
+    "location": "San Jose",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/GenStudio---Software-Development-Engineer-55_R157937",
+    "skills": [
+      "llm",
+      "generative_ai",
+      "nlp",
+      "computer_vision",
+      "multimodal_ai",
+      "agent_orchestration"
+    ]
+  },
+  {
+    "company": "Waymo",
+    "role": "Director of Engineering, London ",
+    "location": "London, England, United Kingdom",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7744053",
+    "skills": [
+      "generative models",
+      "foundation models",
+      "llm",
+      "simulation",
+      "machine learning",
+      "robotics"
+    ]
+  },
+  {
+    "company": "MongoDB",
+    "role": "Staff Engineer, Code Generation",
+    "location": "United States",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7210817",
+    "skills": [
+      "llm",
+      "genai",
+      "code generation",
+      "code transformation",
+      "legacy application modernization",
+      "refactoring"
+    ]
+  },
+  {
+    "company": "Wise",
+    "role": "Senior Engineering Lead - Generative AI Platform",
+    "location": "Tallinn, , Estonia",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "",
+    "skills": [
+      "python",
+      "llm",
+      "agent_orchestration",
+      "prompt_engineering",
+      "generative_ai",
+      "microservices"
+    ]
+  },
+  {
+    "company": "ILLUIN Technology",
+    "role": "Senior AI Engineering Manager (F/H) ",
+    "location": "Paris La Défense",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/illuin/5764c349-4592-45e6-8812-335d77e0496d/application",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "nlp",
+      "vlm",
+      "mlops"
+    ]
+  },
+  {
+    "company": "ILLUIN Technology",
+    "role": "Data Science Manager (F/H) ",
+    "location": "Paris La Défense",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/illuin/137aedd6-bb4d-4882-9574-76eaaef74847/application",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "nlp",
+      "vlm",
+      "mlops"
+    ]
+  },
+  {
+    "company": "Alice & Bob",
+    "role": "Senior Applied AI Engineer",
+    "location": "Paris",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://jobs.lever.co/alice-bob/a018feee-257e-49f4-b744-f3deff43998a/apply",
+    "skills": [
+      "llm",
+      "agent_orchestration",
+      "rag",
+      "llm_evaluation",
+      "llmops",
+      "prompt_engineering"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "role": "Senior Engineering Manager, Real-Time & Streaming AI Systems",
+    "location": "Toronto, ON, CAN",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/ext/job/Toronto-ON-CAN/Senior-Engineering-Manager--Real-Time---Streaming-AI-Systems_26WD97777",
+    "skills": [
+      "llm",
+      "agents",
+      "real-time systems",
+      "data platforms",
+      "distributed systems",
+      "recommendation systems"
+    ]
+  },
+  {
+    "company": "Palo Alto Networks",
+    "role": "Sr Staff IT AI Software Engineer",
+    "location": "Office - USA - CA - Headquarters",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Sr-Staff-IT-AI-Software-Engineer_JR-017690-1",
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "react",
+      "graphql",
+      "google_cloud_platform"
+    ]
+  },
+  {
+    "company": "23andMe",
+    "role": "Sr. Software Engineer (Health AI and Machine Learning)",
+    "location": "Palo Alto (HQ)",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://23andme.wd5.myworkdayjobs.com/23/job/Palo-Alto-HQ/Sr-Software-Engineer--Health-AI-and-Machine-Learning-_2026033",
+    "skills": [
+      "agentic ai systems",
+      "llm orchestration",
+      "rag pipelines",
+      "vector databases",
+      "llm evaluation",
+      "python"
+    ]
+  },
+  {
+    "company": "NewsBreak",
+    "role": "Applied AI Engineer, Advertising Agents",
+    "location": "Mountain View, California, United States",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4690262006",
+    "skills": [
+      "llm",
+      "rag",
+      "agent_orchestration",
+      "tool_use",
+      "multimodal",
+      "mlops"
+    ]
+  },
+  {
+    "company": "CS",
+    "role": "AI Software Engineer (GenAI / LLM)",
+    "location": "Barcelona, CT, Spain",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "",
+    "skills": [
+      "python",
+      "api",
+      "rest",
+      "git",
+      "ci_cd",
+      "llm"
+    ]
+  },
+  {
+    "company": "Waymo",
+    "role": "Tech Lead Manager, Foundation Models",
+    "location": "Mountain View, CA, USA ; Kirkland, WA, USA ; New York City, NY, USA",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7974331",
+    "skills": [
+      "foundation models",
+      "LLMs",
+      "VLMs",
+      "world models",
+      "Transformer modeling",
+      "pretraining"
+    ]
+  },
+  {
+    "company": "Waymo",
+    "role": "Principal Software Engineer, ML System Architect",
+    "location": "Mountain View, CA, USA",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7773177",
+    "skills": [
+      "python",
+      "c++",
+      "jax",
+      "tensorflow",
+      "distributed_training",
+      "ml_infra"
+    ]
+  },
+  {
+    "company": "Waymo",
+    "role": "Senior ML Engineer, LLM / VLM Distillation",
+    "location": "Mountain View, CA, USA",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7858937",
+    "skills": [
+      "llm",
+      "vlm",
+      "model distillation",
+      "deep learning",
+      "python",
+      "multimodal llm"
+    ]
+  },
+  {
+    "company": "Waymo",
+    "role": "Technical Lead Manager (TLM), ML Simulation",
+    "location": "New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7483051",
+    "skills": [
+      "deep learning",
+      "generative AI",
+      "LLM",
+      "VLM",
+      "machine learning",
+      "MLOps"
+    ]
+  },
+  {
+    "company": "Waymo",
+    "role": "Staff Machine Learning Engineer – VLM/LLM Evaluation",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7595124",
+    "skills": [
+      "python",
+      "c++",
+      "pytorch",
+      "jax",
+      "tensorflow",
+      "llm"
+    ]
+  },
+  {
+    "company": "Waymo",
+    "role": "Senior Machine Learning Engineer, Perception LLM/VLM",
+    "location": "Mountain View, CA USA;  San Francisco, CA USA;",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7488596",
+    "skills": [
+      "python",
+      "jax",
+      "tensorflow",
+      "pytorch",
+      "llm",
+      "vlm"
+    ]
+  },
+  {
+    "company": "Waymo",
+    "role": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
+    "location": "Mountain View, CA USA;  San Francisco, CA USA;",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
+    "skills": [
+      "python",
+      "jax",
+      "tensorflow",
+      "pytorch",
+      "llm",
+      "vlm"
+    ]
+  },
+  {
+    "company": "Waymo",
+    "role": "Principal Software Engineer - Waymo Driver Post Training",
+    "location": "Mountain View, CA, USA",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7766491",
+    "skills": [
+      "reinforcement_learning",
+      "supervised_learning",
+      "model_optimization",
+      "inference_optimization",
+      "robotics",
+      "computer_vision"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Machine Learning Engineer 4",
+    "location": "Noida",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-4_R169802-1",
+    "skills": [
+      "generative_ai",
+      "diffusion_models",
+      "transformers",
+      "llm",
+      "python",
+      "c++"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Deep Learning Senior Engineer, End-To-End Autonomous Driving",
+    "location": "China, Shanghai",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Senior-Engineer--End-To-End-Autonomous-Driving_JR2019758",
+    "skills": [
+      "llm",
+      "vlm",
+      "vla",
+      "reinforcement_learning",
+      "generative_models",
+      "imitation_learning"
+    ]
+  },
+  {
+    "company": "Netomi",
+    "role": "Prompt Engineer (Contract)",
+    "location": "Gurugram",
+    "type": "Contract",
+    "posted": "2026-06-16",
+    "url": "https://jobs.lever.co/netomi/21d1bdfc-5f7b-4aa9-934b-e9ec02d5788f/apply",
+    "skills": [
+      "prompt engineering",
+      "llm",
+      "nlp",
+      "python",
+      "agentic ai",
+      "evaluation frameworks"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "role": "AI System Research and Development Engineer - Optimization",
+    "location": "US-WA-Bellevue",
+    "type": "Full-time",
+    "posted": "2026-06-16",
+    "url": "https://jobs.ashbyhq.com/snowflake/33cd51f6-fe99-45d5-9c03-d3fc2dd5e86e/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "jax",
+      "cuda",
+      "llm"
+    ]
+  },
+  {
+    "company": "Roblox",
+    "role": "[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career",
+    "location": "San Mateo, CA, United States",
+    "type": "Full-time",
+    "posted": "2026-06-16",
+    "url": "https://careers.roblox.com/jobs/7350081?gh_jid=7350081",
+    "skills": [
+      "recsys",
+      "llm",
+      "multimodal",
+      "rl",
+      "deep learning",
+      "information retrieval"
+    ]
+  },
+  {
+    "company": "Multiverse Computing",
+    "role": "Research AI Director",
+    "location": "Donostia, ES",
+    "type": "Full-time",
+    "posted": "2026-06-16",
+    "url": "https://multiversecomputing.teamtailor.com/jobs/7923784-research-ai-director",
+    "skills": [
+      "llm",
+      "model compression",
+      "tensor networks",
+      "distributed training",
+      "megatron-lm",
+      "deepspeed"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "AI Computing Software Development Engineer, LLM Inference",
+    "location": "China, Shanghai",
+    "type": "Full-time",
+    "posted": "2026-06-16",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Engineer--LLM-Inference_JR2019592",
+    "skills": [
+      "llm",
+      "inference",
+      "performance optimization",
+      "c++",
+      "deep learning frameworks",
+      "tensorflow"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Senior AI ML Solution Engineer, AI-Native Development",
+    "location": "Israel, Tel Aviv",
+    "type": "Full-time",
+    "posted": "2026-06-16",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-AI-ML-Solution-Engineer--AI-Native-Development_JR2014686",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "prompt_engineering",
+      "fine_tuning",
+      "qlora"
+    ]
+  },
+  {
+    "company": "Coinbase",
+    "role": "Senior Machine Learning Engineer, CX Intelligence ",
+    "location": "Remote - Brazil",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://www.coinbase.com/careers/positions/8008569?gh_jid=8008569",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "agent_orchestration",
+      "langgraph",
+      "langsmith"
+    ]
+  },
+  {
+    "company": "Docker",
+    "role": "ML Engineer",
+    "location": "Palo Alto, CA",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://jobs.ashbyhq.com/docker/29af4c7f-6c9b-4bb4-a5fa-4950fa292be4/application",
+    "skills": [
+      "llm",
+      "agents",
+      "prompt_engineering",
+      "rag",
+      "agent_frameworks",
+      "ml_infra"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Staff Machine Learning Engineer, Customer Support Engineering",
+    "location": "China",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://careers.airbnb.com/positions/7693033?gh_jid=7693033",
+    "skills": [
+      "llm",
+      "generative_ai",
+      "rag",
+      "agentic_ai",
+      "llm_fine_tuning",
+      "llm_optimization"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Senior Machine Learning Engineer, Customer Support Engineering",
+    "location": "China",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://careers.airbnb.com/positions/7975743?gh_jid=7975743",
+    "skills": [
+      "llm",
+      "rag",
+      "agentic_ai",
+      "llm_fine_tuning",
+      "llm_evaluation",
+      "python"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Senior/ Manager, Machine Learning, Customer Support Engineering",
+    "location": "China",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://careers.airbnb.com/positions/7672101?gh_jid=7672101",
+    "skills": [
+      "llm",
+      "machine learning",
+      "python",
+      "ai",
+      "mlops",
+      "leadership"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Machine Learning Engineer, Customer Support Engineering",
+    "location": "China",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
+    "skills": [
+      "llm",
+      "generative_ai",
+      "rag",
+      "agentic_ai",
+      "python",
+      "machine_learning"
+    ]
+  },
+  {
+    "company": "Roger Healthcare",
+    "role": "Senior AI Engineer",
+    "location": "San Francisco Office",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://jobs.ashbyhq.com/rogerhealthcare/5c5a96ca-819b-4fe2-97c3-50e7245f8937/application",
+    "skills": [
+      "python",
+      "llm",
+      "machine learning",
+      "pytorch",
+      "kubernetes",
+      "docker"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Solution Architecture Intern, AI Infra - 2026",
+    "location": "China, Beijing",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Solution-Architecture-Intern--AI-Infra---2026_JR2019909",
+    "skills": [
+      "inference optimization",
+      "distributed training",
+      "cuda",
+      "performance optimization",
+      "llm",
+      "hpc"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "High-Performance LLM Training Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2026_JR2019451-1",
+    "skills": [
+      "llm",
+      "pytorch",
+      "jax",
+      "cuda",
+      "python",
+      "c++"
+    ]
+  },
+  {
+    "company": "BigCommerce",
+    "role": "Lead Software Engineer - AI Solutions",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/Austin-TX/Lead-Software-Engineer---AI-Solutions_JR102269",
+    "skills": [
+      "go",
+      "python",
+      "llm",
+      "rag",
+      "agents",
+      "api design"
+    ]
+  },
+  {
+    "company": "Notable",
+    "role": "AI Platform Engineer",
+    "location": "San Mateo, CA",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://jobs.ashbyhq.com/notable/42c7c2f1-4622-4ca1-adad-5580a47e40c2/application",
+    "skills": [
+      "python",
+      "llm",
+      "jupyter",
+      "gcp",
+      "terraform",
+      "helm"
+    ]
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Model Research, Optimization, and Training",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5163484007",
+    "skills": [
+      "python",
+      "pytorch",
+      "llm_training",
+      "inference_optimization",
+      "speculative_decoding",
+      "quantization"
+    ]
+  },
+  {
+    "company": "Docker",
+    "role": "Staff ML Engineer",
+    "location": "Palo Alto, CA",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://jobs.ashbyhq.com/docker/fcbea485-42fe-459a-b016-509686e6c7be/application",
+    "skills": [
+      "llm",
+      "agents",
+      "prompt_engineering",
+      "rag",
+      "agent_orchestration",
+      "fine_tuning"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "role": "Senior Software Engineer - Customer Experience Engineering",
+    "location": "PL-Warsaw",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://jobs.ashbyhq.com/snowflake/3b15e969-42d4-48c0-8e01-a95985aec533/application",
+    "skills": [
+      "python",
+      "java",
+      "kubernetes",
+      "machine_learning",
+      "llm",
+      "embeddings"
+    ]
+  },
+  {
+    "company": "Snowflake",
+    "role": "Software Engineer - Customer Experience Engineering",
+    "location": "PL-Warsaw",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://jobs.ashbyhq.com/snowflake/66fa23b2-0dcf-4c47-8127-9bdbcfc2ac62/application",
+    "skills": [
+      "python",
+      "java",
+      "kubernetes",
+      "machine_learning",
+      "llm",
+      "embeddings"
+    ]
+  },
+  {
+    "company": "Reddit",
+    "role": "Staff Research Engineer, Post-training & Evaluation",
+    "location": "Remote - United States",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7555007",
+    "skills": [
+      "python",
+      "pytorch",
+      "llm",
+      "nlp",
+      "evaluation",
+      "sft"
+    ]
+  },
+  {
+    "company": "ASI",
+    "role": "Ingénieur IA (H/F)",
+    "location": "Lyon, Auvergne-Rhône-Alpes, France",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "",
+    "skills": [
+      "llm",
+      "genai",
+      "rag",
+      "agents",
+      "fine-tuning",
+      "mlops"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Senior Inference Engineer, AIConfigurator for Dynamo",
+    "location": "US, CA, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Inference-Engineer--AIConfigurator-for-Dynamo_JR2019734",
+    "skills": [
+      "llm_inference",
+      "inference_optimization",
+      "model_serving",
+      "gpu_computing",
+      "distributed_systems",
+      "ml_infra"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Computer Scientist ( Python )",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Advanced-Analytics---Reporting-Analyst_R167740-1",
+    "skills": [
+      "python",
+      "generative_ai",
+      "llm",
+      "rag",
+      "agent_orchestration",
+      "langchain"
+    ]
+  },
+  {
+    "company": "Workiva",
+    "role": "Senior Staff Machine Learning Engineer - US",
+    "location": "USA - Remote",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Staff-Machine-Learning-Engineer_R11948",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "generative_ai",
+      "ml_infra",
+      "python"
+    ]
+  },
+  {
+    "company": "Workiva",
+    "role": "Senior Staff Machine Learning Engineer",
+    "location": "Sault Ste. Marie",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/Sault-Ste-Marie/Senior-Staff-Machine-Learning-Engineer_R11946",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "generative_ai",
+      "model_serving",
+      "model_evaluation"
+    ]
+  },
+  {
+    "company": "Workday",
+    "role": "Senior/Principal Machine Learning Engineer",
+    "location": "USA, CA, Pleasanton",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Senior-Principal-Machine-Learning-Engineer_JR-0102782",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "pytorch",
+      "tensorflow",
+      "aws"
+    ]
+  },
+  {
+    "company": "Lila Sciences",
+    "role": "Co-op, LLMs for Decision Making",
+    "location": "Cambridge, MA USA",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4280808009",
+    "skills": [
+      "python",
+      "pytorch",
+      "jax",
+      "bayesian optimization",
+      "llm",
+      "active learning"
+    ]
+  },
+  {
+    "company": "CI&T",
+    "role": "[Job 29881]  Senior Machine Learning Engineer (AI), Brazil",
+    "location": "Brazil",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://jobs.lever.co/ciandt/766d4c1c-860d-468c-8dcf-06799fb8aa86/apply",
+    "skills": [
+      "python",
+      "pyspark",
+      "tensorflow",
+      "pytorch",
+      "xgboost",
+      "scikit-learn"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "role": "Senior Machine Learning Engineer - Content Intelligence",
+    "location": "New York, NY",
+    "type": "Permanent",
+    "posted": "2026-06-11",
+    "url": "https://jobs.lever.co/spotify/d3a78ed1-9445-4554-b70d-411e2463c7c7/apply",
+    "skills": [
+      "llm",
+      "nlp",
+      "multimodal",
+      "rag",
+      "prompt engineering",
+      "vector databases"
+    ]
+  },
+  {
+    "company": "Deliverect",
+    "role": "Software Developer",
+    "location": "Casablanca",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://jobs.lever.co/deliverect/fabb5c97-bc5b-4d57-aa36-9b890a5bc3f0/apply",
+    "skills": [
+      "llm",
+      "generative_ai",
+      "agents",
+      "prompt_engineering",
+      "rag",
+      "api_integration"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "role": "Senior AI Engineer",
+    "location": "Paris, France",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://careers.datadoghq.com/detail/7731292/?gh_jid=7731292",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "prompt engineering",
+      "evals",
+      "python"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "role": "Staff Software Engineer - ML Observability",
+    "location": "Boston, Massachusetts, USA; New York, New York, USA",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://careers.datadoghq.com/detail/7107437/?gh_jid=7107437",
+    "skills": [
+      "llm",
+      "generative ai",
+      "observability",
+      "distributed systems",
+      "backend architecture",
+      "model evaluation"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Computer Scientist - II",
+    "location": "Noida",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist---II_R169545-1",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "agentic_rag",
+      "vector_databases",
+      "llm_fine_tuning"
+    ]
+  },
+  {
+    "company": "HP Enterprise",
+    "role": "AI/ML Senior Cloud Developer",
+    "location": "Bengaluru, Karnātaka, India",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Bengaluru-Karntaka-India/AI-ML-Senior-Cloud-Developer_1207722-1",
+    "skills": [
+      "GenAI",
+      "LLM",
+      "Prompt Engineering",
+      "Python",
+      "Golang",
+      "Kubernetes"
+    ]
+  },
+  {
+    "company": "NewsBreak",
+    "role": "Machine Learning Engineer, LLM Post-Training",
+    "location": "Mountain View, California, United States",
+    "type": "Full-time",
+    "posted": "2026-06-10",
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4688409006",
+    "skills": [
+      "llm",
+      "reinforcement_learning",
+      "rlhf",
+      "ppo",
+      "dpo",
+      "grpo"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "role": "Intern, Machine Learning Developer",
+    "location": "Toronto, ON, CAN",
+    "type": "Full-time",
+    "posted": "2026-06-10",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "git",
+      "aws",
+      "azure"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "AI Computing Development Engineer, TensorRT and TensorRT-LLM AIGV",
+    "location": "China, Shanghai",
+    "type": "Full-time",
+    "posted": "2026-06-10",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Development-Engineer--TensorRT-and-TensorRT-LLM-AIGV_JR2018990",
+    "skills": [
+      "python",
+      "c++",
+      "tensorrt",
+      "tensorrt-llm",
+      "deep learning",
+      "inference optimization"
+    ]
+  },
+  {
+    "company": "Lyra Health",
+    "role": "Senior ML Engineer (ML/AI)",
+    "location": "United States",
+    "type": "Full-time",
+    "posted": "2026-06-09",
+    "url": "https://jobs.lever.co/lyrahealth/d33ddfed-8c69-4e29-966b-0e190190cd6a/apply",
+    "skills": [
+      "python",
+      "llm",
+      "generative_ai",
+      "rag",
+      "vector_databases",
+      "mlops"
+    ]
+  },
+  {
+    "company": "Wiremind",
+    "role": "Gen AI Engineer (M/F) - Internship - Paris",
+    "location": "Paris, FR",
+    "type": "Internship",
+    "posted": "2026-06-09",
+    "url": "https://wiremind-1714146283.teamtailor.com/jobs/7881599-gen-ai-engineer-m-f-internship-paris",
+    "skills": [
+      "llm",
+      "python",
+      "prompt engineering",
+      "rag",
+      "llm evaluation",
+      "llm benchmarking"
+    ]
+  },
+  {
+    "company": "ASI",
+    "role": "Développeur IA Expert",
+    "location": "Paris, IDF, France",
+    "type": "Full-time",
+    "posted": "2026-06-09",
+    "url": "",
+    "skills": [
+      "rag",
+      "llm",
+      "agents",
+      "langgraph",
+      "guardrails",
+      "langfuse"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "role": "Senior Machine Learning Engineer - Content Intelligence",
+    "location": "London",
+    "type": "Permanent",
+    "posted": "2026-06-09",
+    "url": "https://jobs.lever.co/spotify/288ef608-a1e5-4127-b606-3a9981640f91/apply",
+    "skills": [
+      "llm",
+      "nlp",
+      "multimodal",
+      "rag",
+      "prompt engineering",
+      "model evaluation"
+    ]
+  },
+  {
+    "company": "Headway",
+    "role": "Staff Software Engineer  (Payer)",
+    "location": "Remote - New York",
+    "type": "Full-time",
+    "posted": "2026-06-09",
+    "url": "https://jobs.ashbyhq.com/headway/e95da85a-a6c5-4532-8326-723ddb40d658/application",
+    "skills": [
+      "llm",
+      "agents",
+      "python",
+      "typescript",
+      "aws",
+      "temporal"
+    ]
+  },
+  {
+    "company": "ServiceTitan",
+    "role": "Senior Manager, AI Engineering",
+    "location": "US Remote",
+    "type": "Full-time",
+    "posted": "2026-06-09",
+    "url": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Manager--AI-Engineering_JR114453",
+    "skills": [
+      "llm",
+      "agents",
+      "reinforcement_learning",
+      "rlhf",
+      "fine_tuning",
+      "prompt_engineering"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Senior Staff Machine Learning Engineer, Guest & Host",
+    "location": "Remote - USA",
+    "type": "Full-time",
+    "posted": "2026-06-08",
+    "url": "https://careers.airbnb.com/positions/7005605?gh_jid=7005605",
+    "skills": [
+      "llm",
+      "recommendation engines",
+      "ranking systems",
+      "intent detection",
+      "python",
+      "machine learning"
+    ]
+  },
+  {
+    "company": "Valtech",
+    "role": "Tech Lead Gen AI",
+    "location": "Bengaluru",
+    "type": "Full-time",
+    "posted": "2026-06-08",
+    "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4884941101",
+    "skills": [
+      "python",
+      "gcp",
+      "vertex_ai",
+      "vertex_ai_vector_search",
+      "cloud_run",
+      "pub_sub"
+    ]
+  },
+  {
+    "company": "FloQast",
+    "role": "Senior Software Engineer, Core AI",
+    "location": "San Jose, California",
+    "type": "Full-time",
+    "posted": "2026-06-08",
+    "url": "https://jobs.lever.co/floqast/61ffafb4-deb5-473b-aecf-9c16f19e9259/apply",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "agents",
+      "conversational_ai",
+      "vector_databases"
+    ]
+  },
+  {
+    "company": "MRI Software",
+    "role": "Knowledge Engineering Lead",
+    "location": "Manila, Philippines",
+    "type": "Full-time",
+    "posted": "2026-06-08",
+    "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Manila-Philippines/Knowledge-Engineering-Lead_R-108306",
+    "skills": [
+      "taxonomy design",
+      "metadata standards",
+      "information architecture",
+      "knowledge management",
+      "retrieval augmented generation (RAG)",
+      "LLM consumption"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Senior Deep Learning Solution Architect",
+    "location": "China, Beijing",
+    "type": "Full-time",
+    "posted": "2026-06-08",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Deep-Learning-Solution-Architect_JR2019150",
+    "skills": [
+      "llm",
+      "inference",
+      "distributed training",
+      "performance optimization",
+      "kv cache",
+      "open-source"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "role": "Staff Software Engineer , Anywhere Cloud - AI Systems & Runtimes",
+    "location": "US-California-San Jose",
+    "type": "Full-time",
+    "posted": "2026-06-08",
+    "url": "https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-San-Jose/Staff-Software-Engineer---Anywhere-Cloud---AI-Systems---Runtimes_260367-2",
+    "skills": [
+      "kubernetes",
+      "docker",
+      "python",
+      "go",
+      "rust",
+      "c++"
+    ]
+  },
+  {
+    "company": "Workday",
+    "role": "Machine Learning Engineer - Document Intelligence",
+    "location": "USA, CA, Pleasanton",
+    "type": "Full-time",
+    "posted": "2026-06-07",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer---Document-Intelligence_JR-0107515",
+    "skills": [
+      "llm",
+      "nlp",
+      "rag",
+      "agentic frameworks",
+      "pytorch",
+      "tensorflow"
+    ]
+  },
+  {
+    "company": "Scale",
+    "role": "AI Builder Intern",
+    "location": "San Francisco, CA; New York, NY",
+    "type": "Full-time",
+    "posted": "2026-06-06",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
+    "skills": [
+      "python",
+      "javascript",
+      "react",
+      "llm",
+      "langchain",
+      "langgraph"
+    ]
+  },
+  {
+    "company": "Hippocratic AI",
+    "role": "Clinical AI Product Specialist",
+    "location": "Palo Alto",
+    "type": "FullTime",
+    "posted": "2026-06-05",
+    "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/d6499382-8441-4872-a996-45268fb5885b/application",
+    "skills": [
+      "llm",
+      "conversational ai",
+      "clinical nlp",
+      "prompting",
+      "medical evaluation",
+      "patient communication"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Machine Learning Engineer, Customer Support Engineering",
+    "location": "Remote-USA",
+    "type": "Full-time",
+    "posted": "2026-06-05",
+    "url": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337",
+    "skills": [
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "rag",
+      "llm_fine_tuning",
+      "rlhf"
+    ]
+  },
+  {
+    "company": "Anaplan",
+    "role": "Principal Engineer, AI",
+    "location": "Pennsylvania-Remote, United States",
+    "type": "Full-time",
+    "posted": "2026-06-05",
+    "url": "https://job-boards.greenhouse.io/anaplan/jobs/8580672002",
+    "skills": [
+      "llm",
+      "generative_ai",
+      "rag",
+      "prompt_engineering",
+      "agent_frameworks",
+      "mlops"
+    ]
+  },
+  {
+    "company": "Block",
+    "role": "Staff Machine Learning Engineer (Modeling), Support",
+    "location": "Seattle, WA, United States of America",
+    "type": "Full-time",
+    "posted": "2026-06-05",
+    "url": "http://block.xyz/careers/jobs/5198105008?gh_jid=5198105008",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "jax",
+      "llm",
+      "rag"
+    ]
+  },
+  {
+    "company": "Aledade",
+    "role": "Senior Software Engineer II - (AI Core Platform)",
+    "location": "Remote, United States",
+    "type": "Full-time",
+    "posted": "2026-06-05",
+    "url": "https://jobs.lever.co/aledade/070d5213-9ba5-4afd-aea4-9856e20becae/apply",
+    "skills": [
+      "aws",
+      "distributed systems",
+      "networking",
+      "authz",
+      "iam",
+      "oauth"
+    ]
+  },
+  {
+    "company": "Aledade",
+    "role": "Senior Software Engineer I - AI/ML",
+    "location": "Remote, United States",
+    "type": "Full-time",
+    "posted": "2026-06-05",
+    "url": "https://jobs.lever.co/aledade/d416d854-0534-4b58-94b4-4bd394d818f5/apply",
+    "skills": [
+      "llm",
+      "generative ai",
+      "prompt engineering",
+      "rag",
+      "agent orchestration",
+      "multimodal models"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Senior DL Software Engineer, Model Optimization and Edge Deployment - Autonomous Vehicles",
+    "location": "US, CA, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-05",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DL-Software-Engineer--Model-Optimization-and-Edge-Deployment---Autonomous-Vehicles_JR2015398",
+    "skills": [
+      "pytorch",
+      "jax",
+      "llm",
+      "vlm",
+      "inference_optimization",
+      "quantization"
+    ]
+  },
+  {
+    "company": "Workday",
+    "role": "Principal Software Engineer, AI",
+    "location": "Ireland, Dublin",
+    "type": "Full-time",
+    "posted": "2026-06-05",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Machine-Learning-Engineer_JR-0105191-1",
+    "skills": [
+      "python",
+      "langgraph",
+      "langchain",
+      "langsmith",
+      "java",
+      "scala"
+    ]
+  },
+  {
+    "company": "Multiverse Computing",
+    "role": "Engineering Manager, AI / ML",
+    "location": "Donostia, ES",
+    "type": "Full-time",
+    "posted": "2026-06-04",
+    "url": "https://multiversecomputing.teamtailor.com/jobs/7852180-engineering-manager-ai-ml",
+    "skills": [
+      "python",
+      "docker",
+      "git",
+      "generative_ai",
+      "llm",
+      "rag"
+    ]
+  },
+  {
+    "company": "Zoox",
+    "role": "Part-Time Student Worker Automation & Behavioral Science Engineer",
+    "location": "Foster City, CA",
+    "type": "Contract",
+    "posted": "2026-06-04",
+    "url": "https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e/apply",
+    "skills": [
+      "python",
+      "rag",
+      "llm",
+      "machine learning",
+      "statistics",
+      "data manipulation"
+    ]
+  },
+  {
+    "company": "Dealer.com",
+    "role": "Machine Learning Lead Engineer",
+    "location": "Atlanta GA",
+    "type": "Full-time",
+    "posted": "2026-06-04",
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Machine-Learning-Lead-Engineer_R202678061",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "generative_ai",
+      "mlops",
+      "python"
+    ]
+  },
+  {
+    "company": "Clera",
+    "role": "AI Engineer (Mid-Level)",
+    "location": "San Francisco",
+    "type": "FullTime",
+    "posted": "2026-06-03",
+    "url": "https://jobs.ashbyhq.com/Clera/12f95e17-702b-45eb-bb62-50d154401f8c/application",
+    "skills": [
+      "python",
+      "typescript",
+      "react",
+      "aws",
+      "gcp",
+      "rag"
+    ]
+  },
+  {
+    "company": "Nexthink",
+    "role": "Senior AI Machine Learning Engineer",
+    "location": "Lausanne, VD, ch",
+    "type": "Full-time",
+    "posted": "2026-06-03",
+    "url": "https://jobs.smartrecruiters.com/Nexthink/744000130034719-senior-ai-machine-learning-engineer?oga=true",
+    "skills": [
+      "python",
+      "langchain",
+      "pytorch",
+      "aws",
+      "llm",
+      "rag"
+    ]
+  },
+  {
+    "company": "CS",
+    "role": "Generative AI Specialist",
+    "location": "Bengaluru, Karnataka, , India",
+    "type": "Full-time",
+    "posted": "2026-06-03",
+    "url": "",
+    "skills": [
+      "generative_ai",
+      "llm",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "hugging_face"
+    ]
+  },
+  {
+    "company": "HoneyBook",
+    "role": "Senior Machine Learning Engineer ",
+    "location": "Tel Aviv",
+    "type": "Full-time",
+    "posted": "2026-06-03",
+    "url": "https://jobs.ashbyhq.com/honeybook/59509ad0-ac4d-449c-860a-df5a70340913/application",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "prompt engineering",
+      "vector databases",
+      "mlops"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "AI Inference Performance Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-03",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Inference-Performance-Engineer---New-College-Grad-2026_JR2014441",
+    "skills": [
+      "python",
+      "c++",
+      "pytorch",
+      "jax",
+      "cuda",
+      "tensorrt-llm"
+    ]
+  },
+  {
+    "company": "Cloudera",
+    "role": "Staff Software Engineer - AI",
+    "location": "US-California-San Jose",
+    "type": "Full-time",
+    "posted": "2026-06-03",
+    "url": "https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-San-Jose/Staff-Software-Engineer---AI_251517-1",
+    "skills": [
+      "generative_ai",
+      "llm",
+      "rag",
+      "vector_databases",
+      "prompt_engineering",
+      "fine_tuning"
+    ]
+  },
+  {
+    "company": "Cint",
+    "role": "AI/ML Engineer (Synthetic Data)",
+    "location": "Remote, Remote, cz",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://jobs.smartrecruiters.com/Cint/744000129869769-ai-ml-engineer-synthetic-data-?oga=true",
+    "skills": [
+      "python",
+      "llm",
+      "fine-tuning",
+      "lora",
+      "distillation",
+      "sql"
+    ]
+  },
+  {
+    "company": "Loft",
+    "role": "Senior Software Engineer | AI (Vaga afirmativa para mulheres)",
+    "location": "São Paulo, BR",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://loft.teamtailor.com/jobs/7837256-senior-software-engineer-ai-vaga-afirmativa-para-mulheres",
+    "skills": [
+      "python",
+      "llm",
+      "genai",
+      "prompt engineering",
+      "quality assurance",
+      "api design"
+    ]
+  },
+  {
+    "company": "OKX",
+    "role": "AI Application Architect",
+    "location": "Singapore, Singapore",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://job-boards.greenhouse.io/okx/jobs/7761002003",
+    "skills": [
+      "llm",
+      "rag",
+      "vector_databases",
+      "agents",
+      "function_calling",
+      "prompt_engineering"
+    ]
+  },
+  {
+    "company": "Ōura",
+    "role": "Senior AI Engineer – Health Intelligence",
+    "location": "On-site - San Francisco, California",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://job-boards.greenhouse.io/oura/jobs/4250676009",
+    "skills": [
+      "python",
+      "llm",
+      "machine_learning",
+      "backend_engineering",
+      "cloud_services",
+      "rag"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "role": "Senior Machine Learning Engineer",
+    "location": "California, USA - Remote",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/ext/job/California-USA---Remote/Senior-Machine-Learning-Engineer_25WD94218-2",
+    "skills": [
+      "llm",
+      "conversational ai",
+      "nlp",
+      "information retrieval",
+      "agent orchestration",
+      "rag"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Senior Software Engineer, AI and DL Kernel Libraries",
+    "location": "US, CA, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-and-DL-Kernel-Libraries_JR2014704",
+    "skills": [
+      "cuda",
+      "c++",
+      "python",
+      "llm",
+      "inference",
+      "kernel development"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Applied AI Engineer - VLSI Design",
+    "location": "US, CA, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-AI-Engineer---VLSI-Design_JR2019190",
+    "skills": [
+      "python",
+      "llm",
+      "agent_orchestration",
+      "rag_pipelines",
+      "vector_databases",
+      "fine_tuning"
+    ]
+  },
+  {
+    "company": "Tricentis",
+    "role": "Lead AI Software Engineer",
+    "location": "Austin, Texas",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://tricentis.wd1.myworkdayjobs.com/Tricentis_Careers/job/Austin-Texas/Lead-AI-Software-Engineer_JR105696",
+    "skills": [
+      "python",
+      "llm",
+      "generative_ai",
+      "agent_orchestration",
+      "rag",
+      "vector_databases"
+    ]
+  },
+  {
+    "company": "Tricentis",
+    "role": "Lead AI Software Engineer",
+    "location": "Austin, Texas",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://tricentis.wd1.myworkdayjobs.com/Tricentis_Careers/job/Austin-Texas/Lead-AI-Software-Engineer_JR105692",
+    "skills": [
+      "python",
+      "llm",
+      "language_model_deployment",
+      "ai_coding_assistants",
+      "genai",
+      "data_pipelines"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Senior AI Software Engineer, Kernel Libraries",
+    "location": "US, CA, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Software-Engineer--Kernel-Libraries_JR2014705",
+    "skills": [
+      "python",
+      "c++",
+      "cuda",
+      "triton",
+      "llm inference",
+      "kernel development"
+    ]
+  },
+  {
+    "company": "Palo Alto Networks",
+    "role": "Staff AI Software Engineer",
+    "location": "Office - USA - CA - Headquarters",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Staff-AI-Software-Engineer_JR-017683",
+    "skills": [
+      "python",
+      "django",
+      "fastapi",
+      "react",
+      "graphql",
+      "gcp"
+    ]
+  },
+  {
+    "company": "Anaplan",
+    "role": "Senior Machine Learning Engineer",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "posted": "2026-06-01",
+    "url": "https://job-boards.greenhouse.io/anaplan/jobs/8548017002",
+    "skills": [
+      "python",
+      "generative_ai",
+      "llm_engineer",
+      "machine_learning",
+      "mlops",
+      "llmo ps"
+    ]
+  },
+  {
+    "company": "Betclic Group",
+    "role": "Apprenticeship - GenAI Transformation Assistant F/M",
+    "location": "Bordeaux, FR",
+    "type": "Full-time",
+    "posted": "2026-05-29",
+    "url": "https://betclic-group.breezy.hr/p/a0904a11bb5e01-apprenticeship-genai-transformation-assistant-f-m",
+    "skills": [
+      "generative ai",
+      "llm",
+      "prompt engineering",
+      "agent development",
+      "use case identification",
+      "documentation"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Manager, Deep Learning Algorithms",
+    "location": "Poland, Warsaw",
+    "type": "Full-time",
+    "posted": "2026-05-29",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Manager--Deep-Learning-Algorithms_JR1990716-1",
+    "skills": [
+      "deep learning",
+      "algorithms",
+      "python",
+      "performance analysis",
+      "inference",
+      "training"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "role": "Staff ML Engineer, Fine Tuning - Slack",
+    "location": "Washington - Seattle",
+    "type": "Full-time",
+    "posted": "2026-05-29",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Staff-ML-Engineer--LLM-Fine-Tuning---Slack_JR344115-1",
+    "skills": [
+      "llm",
+      "nlp",
+      "pytorch",
+      "tensorflow",
+      "jax",
+      "python"
+    ]
+  },
+  {
+    "company": "Distyl AI",
+    "role": "AI Engineer",
+    "location": "London, UK",
+    "type": "Full-time",
+    "posted": "2026-05-28",
+    "url": "https://jobs.ashbyhq.com/distyl/26cc59d5-af3c-4ae7-9ee9-f70733e68dd7/application",
+    "skills": [
+      "python",
+      "typescript",
+      "llm",
+      "langchain",
+      "llamaindex",
+      "rag"
+    ]
+  },
+  {
+    "company": "n8n",
+    "role": "Sr AI Engineer | Remote - Europe | TS/Vue/NodeJS",
+    "location": "Berlin Office",
+    "type": "Full-time",
+    "posted": "2026-05-28",
+    "url": "https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297/application",
+    "skills": [
+      "typescript",
+      "nodejs",
+      "python",
+      "llm",
+      "openai",
+      "anthropic"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Engineering Manager, Inference Benchmarking — AI Perf",
+    "location": "US, CA, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-05-28",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Manager--Inference-Benchmarking---AI-Perf_JR2017635",
+    "skills": [
+      "llm inference",
+      "performance benchmarking",
+      "systems engineering",
+      "inference infrastructure",
+      "open-source communities",
+      "load generation"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "AI Computing Development Engineer, TensorRT and TensorRT-LLM",
+    "location": "China, Shanghai",
+    "type": "Full-time",
+    "posted": "2026-05-28",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Development-Engineer--TensorRT-and-TensorRT-LLM_JR2018666",
+    "skills": [
+      "tensorrt",
+      "tensorrt-llm",
+      "llm",
+      "generative_ai",
+      "multimodal",
+      "inference_optimization"
+    ]
+  },
+  {
+    "company": "Handshake",
+    "role": "AI Red Teamer, LLM Generalist",
+    "location": "Seattle, WA",
+    "type": "Contract",
+    "posted": "2026-05-27",
+    "url": "https://jobs.ashbyhq.com/handshake/1e3a9711-d13c-4b79-8599-34dfb3133621/application",
+    "skills": [
+      "llm",
+      "python",
+      "adversarial_ml",
+      "prompt_engineering"
+    ]
+  },
+  {
+    "company": "SandboxAQ",
+    "role": "Senior Machine Learning Engineer, AI Generation Engine",
+    "location": "Canada",
+    "type": "Full-time",
+    "posted": "2026-05-27",
+    "url": "https://jobs.ashbyhq.com/sandboxaq/aea461ca-a51d-476e-8e10-9226fc8b1284/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "jax",
+      "numpy",
+      "pandas"
+    ]
+  },
+  {
+    "company": "SandboxAQ",
+    "role": "Staff Machine Learning Engineer, AI Generation Engine",
+    "location": "Canada",
+    "type": "Full-time",
+    "posted": "2026-05-27",
+    "url": "https://jobs.ashbyhq.com/sandboxaq/54e2b57a-50dd-4e9a-beed-81ec2abcc9fa/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "jax",
+      "numpy",
+      "pandas"
+    ]
+  },
+  {
+    "company": "airSlate",
+    "role": "Senior Software Engineer - Agentic AI",
+    "location": "Wroclaw",
+    "type": "Full-time",
+    "posted": "2026-05-27",
+    "url": "https://jobs.lever.co/airslate/7fb7e6ed-4d5d-437f-bb8f-35005f67f41b/apply",
+    "skills": [
+      "python",
+      "llm_orchestration",
+      "rag",
+      "agent_orchestration",
+      "langgraph",
+      "litellm"
+    ]
+  },
+  {
+    "company": "Anaplan",
+    "role": "Principal Machine Learning Engineer",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "posted": "2026-05-26",
+    "url": "https://job-boards.greenhouse.io/anaplan/jobs/8564652002",
+    "skills": [
+      "llm_engineer",
+      "agent_engineer",
+      "mlops",
+      "llm_fine_tuning",
+      "rag",
+      "prompt_engineering"
+    ]
+  },
+  {
+    "company": "Anaplan",
+    "role": "Principal Engineer - AI",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "posted": "2026-05-26",
+    "url": "https://job-boards.greenhouse.io/anaplan/jobs/8548012002",
+    "skills": [
+      "llm",
+      "generative_ai",
+      "prompt_engineering",
+      "rag",
+      "agent_frameworks",
+      "mlops"
+    ]
+  },
+  {
+    "company": "CI&T",
+    "role": "[Job-29481] AI Developer, Brazil",
+    "location": "Brazil",
+    "type": "Full-time",
+    "posted": "2026-05-26",
+    "url": "https://jobs.lever.co/ciandt/49d36aab-bd3c-4be1-a149-74db97aebd6f/apply",
+    "skills": [
+      "generative ai",
+      "rag pipelines",
+      "llm integration",
+      "vector databases",
+      "prompt engineering",
+      "ai agents"
+    ]
+  },
+  {
+    "company": "CI&T",
+    "role": "[Job-29481]  Senior AI Developer (Customer Delivery), Brazil",
+    "location": "Brazil",
+    "type": "Full-time",
+    "posted": "2026-05-26",
+    "url": "https://jobs.lever.co/ciandt/e9da5326-d909-46ba-9ff6-4e36144d0d39/apply",
+    "skills": [
+      "generative_ai",
+      "rag_pipelines",
+      "ai_agents",
+      "llm_integration",
+      "prompt_engineering",
+      "vector_databases"
+    ]
+  },
+  {
+    "company": "Limbic",
+    "role": "Senior AI/ML Engineer",
+    "location": "UK",
+    "type": "Full-time",
+    "posted": "2026-05-26",
+    "url": "https://jobs.ashbyhq.com/limbic/5693cf4b-0182-4ceb-b464-369e5be1f29a/application",
+    "skills": [
+      "python",
+      "typescript",
+      "javascript",
+      "llm",
+      "reinforcement_learning",
+      "docker"
+    ]
+  },
+  {
+    "company": "Saviynt",
+    "role": "Senior AI Developer",
+    "location": "Bengaluru",
+    "type": "Full-time",
+    "posted": "2026-05-26",
+    "url": "https://jobs.lever.co/saviynt/99640cc5-2988-40e7-ad54-5ef2605d5dc9/apply",
+    "skills": [
+      "python",
+      "node.js",
+      "typescript",
+      "llm",
+      "llm_apis",
+      "openai"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Machine Learning Engineer 5",
+    "location": "San Jose",
+    "type": "Full-time",
+    "posted": "2026-05-26",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169103",
+    "skills": [
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "llm_fine_tuning",
+      "inference_optimization",
+      "rag"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Machine Learning Engineer 5",
+    "location": "San Jose",
+    "type": "Full-time",
+    "posted": "2026-05-26",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169102",
+    "skills": [
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "llm_fine_tuning",
+      "inference_optimization",
+      "rag"
+    ]
+  },
+  {
+    "company": "Valtech",
+    "role": "AI Developer",
+    "location": "Bengaluru",
+    "type": "Full-time",
+    "posted": "2026-05-25",
+    "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4872440101",
+    "skills": [
+      "reactjs",
+      "nextjs",
+      "python",
+      "fastapi",
+      "nodejs",
+      "nestjs"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Principal Machine Learning Engineer- LLM Fine-tuning and Optimization ",
+    "location": "United States",
+    "type": "Full-time",
+    "posted": "2026-05-24",
+    "url": "https://careers.airbnb.com/positions/7955579?gh_jid=7955579",
+    "skills": [
+      "python",
+      "pytorch",
+      "llm fine-tuning",
+      "model optimization",
+      "inference optimization",
+      "rag"
+    ]
+  },
+  {
+    "company": "Hippocratic AI",
+    "role": "Staff AI Engineer (Life Sciences)",
+    "location": "Menlo Park",
+    "type": "FullTime",
+    "posted": "2026-05-23",
+    "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/8b33d677-21bd-4707-a5ed-3b83f2f01c0d/application",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "agent_orchestration",
+      "vector_databases",
+      "speech_recognition"
+    ]
+  },
+  {
+    "company": "SandboxAQ",
+    "role": "Senior Machine Learning Engineer, AI Generation Engine",
+    "location": "United States",
+    "type": "Full-time",
+    "posted": "2026-05-22",
+    "url": "https://jobs.ashbyhq.com/sandboxaq/5d096708-36f4-4f94-96b9-59b5e9b88f3f/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "jax",
+      "numpy",
+      "pandas"
+    ]
+  },
+  {
+    "company": "Orum",
+    "role": "Staff Applied AI Engineer",
+    "location": "San Francisco Bay Area",
+    "type": "Full-time",
+    "posted": "2026-05-22",
+    "url": "https://jobs.ashbyhq.com/orum/35acaf56-2959-4ec0-b5f1-64f1b30ecc0c/application",
+    "skills": [
+      "llm",
+      "rag",
+      "agents",
+      "embeddings",
+      "fine-tuning",
+      "mlops"
+    ]
+  },
+  {
+    "company": "CI&T",
+    "role": "[Job-29481]  Senior Developer, Brazil",
+    "location": "Brazil",
+    "type": "Full-time",
+    "posted": "2026-05-22",
+    "url": "https://jobs.lever.co/ciandt/cf350c61-c9f9-47b6-9a0e-7ce8a94981e2/apply",
+    "skills": [
+      "generative_ai",
+      "rag_pipelines",
+      "ai_agents",
+      "llm_integration",
+      "prompt_engineering",
+      "vector_databases"
+    ]
+  },
+  {
+    "company": "ABBYY",
+    "role": "Senior Machine Learning Engineer -  AI-Assisted Data Annotation",
+    "location": "Bangalore, India (Hybrid)",
+    "type": "Full-time",
+    "posted": "2026-05-21",
+    "url": "https://job-boards.eu.greenhouse.io/abbyy/jobs/4873299101",
+    "skills": [
+      "llm",
+      "vlm",
+      "prompting",
+      "few_shot_learning",
+      "fine_tuning",
+      "data_annotation"
+    ]
+  },
+  {
+    "company": "ABBYY",
+    "role": "Principal Machine Learning Engineer, Document AI Data (Tech Lead Manager)",
+    "location": "Bangalore, India (Hybrid)",
+    "type": "Full-time",
+    "posted": "2026-05-21",
+    "url": "https://job-boards.eu.greenhouse.io/abbyy/jobs/4873283101",
+    "skills": [
+      "llm",
+      "vlm",
+      "data_pipeline",
+      "mlops",
+      "data_annotation",
+      "synthetic_data_generation"
+    ]
+  },
+  {
+    "company": "Machinify",
+    "role": "Staff AI Engineer",
+    "location": "US",
+    "type": "Full-time",
+    "posted": "2026-05-21",
+    "url": "https://job-boards.greenhouse.io/machinifyinc/jobs/4212332009",
+    "skills": [
+      "python",
+      "typescript",
+      "llm",
+      "rag",
+      "prompt_engineering",
+      "vector_search"
+    ]
+  },
+  {
+    "company": "Zoom",
+    "role": "Machine Learning Engineer",
+    "location": "Seattle (WA)",
+    "type": "Full-time",
+    "posted": "2026-05-21",
+    "url": "https://zoom.wd5.myworkdayjobs.com/Zoom/job/Seattle-WA/Machine-Learning-Engineer_R19190",
+    "skills": [
+      "python",
+      "c++",
+      "cuda",
+      "pytorch",
+      "tensorflow",
+      "llm"
+    ]
+  },
+  {
+    "company": "2100 NVIDIA USA",
+    "role": "Senior Developer Technology Engineer - Windows AI Platform",
+    "location": "US, CA, Santa Clara",
+    "type": "Full-time",
+    "posted": "2026-05-21",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Windows-AI-Platform_JR2011694-1",
+    "skills": [
+      "llm",
+      "genai",
+      "cuda",
+      "python",
+      "c++",
+      "windows"
+    ]
+  },
+  {
+    "company": "ABBYY",
+    "role": "Senior Machine Learning Engineer, Model Training & Evaluation",
+    "location": "Bangalore, India (Hybrid)",
+    "type": "Full-time",
+    "posted": "2026-05-19",
+    "url": "https://job-boards.eu.greenhouse.io/abbyy/jobs/4871279101",
+    "skills": [
+      "pytorch",
+      "python",
+      "llm",
+      "model training",
+      "model evaluation",
+      "benchmarking"
+    ]
+  },
+  {
+    "company": "Wise",
+    "role": "Engineering Lead - Wise AI Assistant Platform",
+    "location": "Budapest, , Hungary",
+    "type": "Full-time",
+    "posted": "2026-05-19",
+    "url": "",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "vector_databases",
+      "embeddings",
+      "prompt_engineering"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Sr Machine Learning Engineer, Adobe Firefly Services",
+    "location": "San Jose",
+    "type": "Full-time",
+    "posted": "2026-05-19",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer--Adobe-Firefly-Services_R168917",
+    "skills": [
+      "pytorch",
+      "cuda",
+      "triton",
+      "tensorrt",
+      "nvidia_dynamo",
+      "python"
+    ]
+  },
+  {
+    "company": "WRITER",
+    "role": "AI engineer (UK) ",
+    "location": "London, UK",
+    "type": "Full-time",
+    "posted": "2026-05-18",
+    "url": "https://jobs.ashbyhq.com/writer/e89c9689-d5ed-4b95-8f3c-b13c6f4c94ba/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "jax",
+      "nlp",
+      "llm"
+    ]
+  },
+  {
+    "company": "Cohere Health",
+    "role": "Staff Machine Learning Engineer",
+    "location": "Hyderabad, Telangana, India",
+    "type": "Full-time",
+    "posted": "2026-05-18",
+    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7693285003",
+    "skills": [
+      "python",
+      "pytorch",
+      "aws",
+      "llm",
+      "agents",
+      "rag"
+    ]
+  },
+  {
+    "company": "Cohere Health",
+    "role": "Lead Machine Learning Engineer",
+    "location": "Hyderabad, Telangana, India",
+    "type": "Full-time",
+    "posted": "2026-05-18",
+    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7693174003",
+    "skills": [
+      "python",
+      "pytorch",
+      "transformers",
+      "nlp",
+      "rag",
+      "generative_ai"
+    ]
+  },
+  {
+    "company": "Pika",
+    "role": "Multimodal LLM Researcher (MLLM)",
+    "location": "Palo Alto HQ",
+    "type": "Full-time",
+    "posted": "2026-05-16",
+    "url": "https://jobs.ashbyhq.com/pika/d3993c91-4dd5-4868-8108-4e9b78133e7b/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "llm",
+      "vlm",
+      "audio_lm"
+    ]
+  },
+  {
+    "company": "Athelas",
+    "role": "Senior Software Engineer, Air AI",
+    "location": "Mountain View, CA",
+    "type": "FullTime",
+    "posted": "2026-05-15",
+    "url": "https://jobs.ashbyhq.com/Commure/b8d40cf3-3bde-4aec-a2a9-ded988ab128f/application",
+    "skills": [
+      "python",
+      "typescript",
+      "react",
+      "docker",
+      "kubernetes",
+      "llm"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "role": "Manager I, Engineering - Applied AI - Natural Language & Conversational Interfaces",
+    "location": "New York, New York, USA",
+    "type": "Full-time",
+    "posted": "2026-05-15",
+    "url": "https://careers.datadoghq.com/detail/7560494/?gh_jid=7560494",
+    "skills": [
+      "llm",
+      "conversational_ai",
+      "nlp",
+      "rag",
+      "agent_orchestration",
+      "evaluation_frameworks"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "role": "Manager I, Engineering - CodeGen",
+    "location": "New York, New York, USA",
+    "type": "Full-time",
+    "posted": "2026-05-15",
+    "url": "https://careers.datadoghq.com/detail/7629758/?gh_jid=7629758",
+    "skills": [
+      "python",
+      "go",
+      "llm",
+      "agent_orchestration",
+      "rag",
+      "code generation"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "role": "Senior Staff GenAI Engineer - Application Performance Monitoring (APM)",
+    "location": "New York, New York, USA",
+    "type": "Full-time",
+    "posted": "2026-05-15",
+    "url": "https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503",
+    "skills": [
+      "llm",
+      "agents",
+      "agentic workflows",
+      "model training",
+      "model evaluation",
+      "model deployment"
+    ]
+  },
+  {
+    "company": "Datadog",
+    "role": "Senior AI Engineer - APM Experiences",
+    "location": "New York, New York, USA",
+    "type": "Full-time",
+    "posted": "2026-05-15",
+    "url": "https://careers.datadoghq.com/detail/7415266/?gh_jid=7415266",
+    "skills": [
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "rag",
+      "prompt_engineering",
+      "llm_evals"
+    ]
+  },
+  {
+    "company": "MRI Software",
+    "role": "AI Engineers",
+    "location": "Manila, Philippines",
+    "type": "Full-time",
+    "posted": "2026-05-15",
+    "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Manila-Philippines/AI-Engineers_R-107814",
+    "skills": [
+      "llm_engineer",
+      "agent_engineer",
+      "rag_pipelines",
+      "vector_databases",
+      "llm_apis",
+      "prompt_engineering"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Machine Learning Engineer 4",
+    "location": "Noida",
+    "type": "Full-time",
+    "posted": "2026-05-15",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-4_R168469",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "generative_ai",
+      "video_generation",
+      "diffusion_models"
+    ]
+  },
+  {
+    "company": "Rula",
+    "role": "Principal AI Engineer (Remote)",
+    "location": "Remote - United States",
+    "type": "Full-time",
+    "posted": "2026-05-14",
+    "url": "https://jobs.ashbyhq.com/rula/e5500bc1-5dd1-4a93-8571-20f77f0f66ad/application",
+    "skills": [
+      "python",
+      "aws",
+      "gcp",
+      "distributed systems",
+      "foundation models",
+      "llm integration"
+    ]
+  },
+  {
+    "company": "PlusAI",
+    "role": "Simulation Engineer Intern",
+    "location": "Santa Clara, CA",
+    "type": "Internship",
+    "posted": "2026-05-14",
+    "url": "https://jobs.lever.co/plus-2/a58986e8-c9a0-4ca3-a8f1-6abec1e88464/apply",
+    "skills": [
+      "python",
+      "llm",
+      "prompt engineering",
+      "generative ai",
+      "api integration",
+      "json parsing"
+    ]
+  },
+  {
+    "company": "Cohere Health",
+    "role": "Senior Machine Learning Engineer",
+    "location": "United States",
+    "type": "Full-time",
+    "posted": "2026-05-14",
+    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7708749003",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "keras",
+      "spacy"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Senior Computer Scientist ( Python)",
+    "location": "Noida",
+    "type": "Full-time",
+    "posted": "2026-05-14",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Lead-Engineer_R166868-1",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "agents",
+      "langchain",
+      "transformers"
+    ]
+  },
+  {
+    "company": "Fever",
+    "role": "AI Engineering Lead",
+    "location": "Spain",
+    "type": "Full-time",
+    "posted": "2026-05-13",
+    "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4866114101",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "agent_orchestration",
+      "prompt_engineering",
+      "fine_tuning"
+    ]
+  },
+  {
+    "company": "Rippling",
+    "role": "Machine Learning Software Engineer Intern - Winter 2027",
+    "location": "San Francisco, CA",
+    "type": "Internship",
+    "posted": "2026-05-13",
+    "url": "https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781",
+    "skills": [
+      "python",
+      "pytorch",
+      "pyspark",
+      "llm",
+      "fine-tuning",
+      "machine learning pipelines"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Machine Learning Engineer 5",
+    "location": "Noida",
+    "type": "Full-time",
+    "posted": "2026-05-13",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-5_R168224-1",
+    "skills": [
+      "pytorch",
+      "cuda",
+      "triton",
+      "tensorrt",
+      "nvidia_dynamo",
+      "python"
+    ]
+  },
+  {
+    "company": "Palo Alto Networks",
+    "role": "Principal Engineer Software  - LLM(Cortex Agentix)",
+    "location": "Office - Israel - Tel Aviv",
+    "type": "Full-time",
+    "posted": "2026-05-13",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Engineer-Software_JR-016806",
+    "skills": [
+      "llm",
+      "agents",
+      "python",
+      "go",
+      "system architecture",
+      "prompt engineering"
+    ]
+  },
+  {
+    "company": "Glean",
+    "role": "Machine Learning Engineer, LLM Evals & Observability",
+    "location": "Mountain View, CA",
+    "type": "Full-time",
+    "posted": "2026-05-12",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694716005",
+    "skills": [
+      "python",
+      "go",
+      "llm",
+      "nlp",
+      "machine_learning",
+      "data_pipelines"
+    ]
+  },
+  {
+    "company": "Addepar",
+    "role": "Staff Software Engineer - Reference Data - AI/ML (UK)",
+    "location": "Edinburgh, UK",
+    "type": "Full-time",
+    "posted": "2026-05-12",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8540248002",
+    "skills": [
+      "llm",
+      "agent_orchestration",
+      "vector_databases",
+      "prompt_tuning",
+      "rag_pipelines",
+      "productionization"
+    ]
+  },
+  {
+    "company": "Artian AI",
+    "role": "Software Engineer - AI/ML",
+    "location": "New York",
+    "type": "FullTime",
+    "posted": "2026-05-12",
+    "url": "https://jobs.ashbyhq.com/artian/3683bd9e-378b-4b68-8866-ba6bdafee472/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "llm",
+      "nlp",
+      "embeddings"
+    ]
+  },
+  {
+    "company": "Artian AI",
+    "role": "Senior Software Engineer - AI/ML",
+    "location": "New York",
+    "type": "FullTime",
+    "posted": "2026-05-12",
+    "url": "https://jobs.ashbyhq.com/artian/4e9e35fe-65de-49a2-96b2-eac41c12bc5e/application",
+    "skills": [
+      "python",
+      "llm",
+      "nlp",
+      "rag",
+      "embeddings",
+      "agentic_ai"
+    ]
+  },
+  {
+    "company": "Tessian",
+    "role": "Principal ML Architect – Security AI & Advanced Model Systems",
+    "location": "Sunnyvale, CA",
+    "type": "Full-time",
+    "posted": "2026-05-12",
+    "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Principal-ML-Architect---Security-AI---Advanced-Model-Systems_R14162",
+    "skills": [
+      "llm",
+      "slm",
+      "agents",
+      "transformers",
+      "rag",
+      "model distillation"
+    ]
+  },
+  {
+    "company": "FinQuery",
+    "role": "Sr. AI Engineer",
+    "location": "Atlanta, GA",
+    "type": "Full-time",
+    "posted": "2026-05-11",
+    "url": "https://jobs.lever.co/finquery/3bae2735-39bf-444e-83bf-1693d9cd38fe/apply",
+    "skills": [
+      "llm",
+      "agents",
+      "python",
+      "prompt_engineering",
+      "rag",
+      "agent_orchestration"
+    ]
+  },
+  {
+    "company": "Newfold Digital",
+    "role": "Senior Software Engineer - AI",
+    "location": "Quebec, Canada - Remote",
+    "type": "Full-time",
+    "posted": "2026-05-11",
+    "url": "https://web.wd1.myworkdayjobs.com/ExternalCareerSite/job/Quebec-Canada---Remote/Senior-Software-Engineer---AI_R14398",
+    "skills": [
+      "python",
+      "fastapi",
+      "semantic kernel",
+      "llm",
+      "rag",
+      "vector databases"
+    ]
+  },
+  {
+    "company": "Datalign Advisory",
+    "role": "Senior Software Engineer, AI/ML",
+    "location": "Cambridge, MA",
+    "type": "Full-time",
+    "posted": "2026-05-11",
+    "url": "https://datalignadvisoryinc.applytojob.com/apply/jobs/details/MQdebkZzPQ",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "agent_orchestration",
+      "function_calling",
+      "inference_optimization"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Sr Engineering Manager, AI Enablement",
+    "location": "San Jose",
+    "type": "Full-time",
+    "posted": "2026-05-11",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Engineering-Manager--AI-Enablement_R167650",
+    "skills": [
+      "agentic ai",
+      "llm",
+      "rag",
+      "prompt orchestration",
+      "evaluation frameworks",
+      "multi-agent collaboration"
+    ]
+  },
+  {
+    "company": "Baseten",
+    "role": "Engineering Manager - Forward Deployed Engineering (LLM)",
+    "location": "San Francisco",
+    "type": "Full-time",
+    "posted": "2026-05-08",
+    "url": "https://jobs.ashbyhq.com/baseten/1b6fc00e-f3fa-440b-9e4e-3013f7a5010e/application",
+    "skills": [
+      "python",
+      "llm",
+      "ml_inference",
+      "docker",
+      "hugging_face",
+      "ray_serve"
+    ]
+  },
+  {
+    "company": "Vendelux",
+    "role": "Staff AI Engineer ",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "posted": "2026-05-08",
+    "url": "https://jobs.ashbyhq.com/vendelux/6f54d882-054a-46cd-b0f1-17cd38f9187f/application",
+    "skills": [
+      "python",
+      "sql",
+      "llm",
+      "agents",
+      "rag",
+      "embeddings"
+    ]
+  },
+  {
+    "company": "Vendelux",
+    "role": "Senior AI Engineer ",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "posted": "2026-05-08",
+    "url": "https://jobs.ashbyhq.com/vendelux/e68b278e-9133-4811-a472-5bf0d700eec3/application",
+    "skills": [
+      "python",
+      "sql",
+      "llm",
+      "agents",
+      "rag",
+      "embeddings"
+    ]
+  },
+  {
+    "company": "Fonoa",
+    "role": "Senior/Staff Software Engineer, AI",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "posted": "2026-05-08",
+    "url": "https://jobs.ashbyhq.com/fonoa/d4683312-5a24-491d-9d0a-6f25c51f910c/application",
+    "skills": [
+      "llm",
+      "agent_orchestration",
+      "rag",
+      "prompt_engineering",
+      "model_evaluation",
+      "backend"
+    ]
+  },
+  {
+    "company": "Appier",
+    "role": "Machine Learning Scientist (LLM & Agents)",
+    "location": "Taipei, Taiwan",
+    "type": "Full-time",
+    "posted": "2026-05-08",
+    "url": "https://job-boards.greenhouse.io/appier/jobs/7907856",
+    "skills": [
+      "python",
+      "machine learning",
+      "llm",
+      "agentic ai",
+      "pytorch",
+      "tensorflow"
+    ]
+  },
+  {
+    "company": "Palo Alto Networks",
+    "role": "Principal Tools, Automation & Testing Engineer",
+    "location": "Office - USA - CA - Headquarters",
+    "type": "Full-time",
+    "posted": "2026-05-08",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Tools--Automation---Testing-Engineer_JR-017030",
+    "skills": [
+      "python",
+      "testing frameworks",
+      "PyTest",
+      "unittest",
+      "machine learning",
+      "model evaluation"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "role": "Senior Machine Learning Engineer, Personalization, Magenta",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "posted": "2026-05-07",
+    "url": "https://jobs.lever.co/spotify/3cf07bc7-2b9f-4531-af88-a09cfdf7b3ab/apply",
+    "skills": [
+      "llm",
+      "agent_orchestration",
+      "conversational_ai",
+      "rag",
+      "llm_evaluations",
+      "python"
+    ]
+  },
+  {
+    "company": "Insider",
+    "role": "Senior Machine Learning Engineer (Agentic AI)",
+    "location": "Istanbul, Turkiye",
+    "type": "Full-time",
+    "posted": "2026-05-07",
+    "url": "https://jobs.lever.co/insiderone/63f94b52-1c50-41c8-a510-b0f1fcb11bf5/apply",
+    "skills": [
+      "python",
+      "sql",
+      "aws",
+      "kubernetes",
+      "llm_orchestration",
+      "rag"
+    ]
+  },
+  {
+    "company": "Omio",
+    "role": "Senior AI Engineer",
+    "location": "Singapore, , Singapore",
+    "type": "Full-time",
+    "posted": "2026-05-06",
+    "url": "",
+    "skills": [
+      "llm",
+      "langchain",
+      "rag",
+      "vector_databases",
+      "python",
+      "java"
+    ]
+  },
+  {
+    "company": "Fullscript",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Ottawa, ON",
+    "type": "Full-time",
+    "posted": "2026-05-06",
+    "url": "https://jobs.lever.co/fullscript/0bc489f5-de05-4797-b1f8-8cb05c082670/apply",
+    "skills": [
+      "llm_engineer",
+      "agent_engineer",
+      "rag",
+      "conversational_ai",
+      "python",
+      "sql"
+    ]
+  },
+  {
+    "company": "7AI",
+    "role": "Senior AI Engineer",
+    "location": "Boston, MA",
+    "type": "FullTime",
+    "posted": "2026-05-06",
+    "url": "https://jobs.ashbyhq.com/sevenai/f9e17dae-6ad4-4b86-a0cd-55c3b450b7f7/application",
+    "skills": [
+      "python",
+      "typescript",
+      "llm",
+      "rag",
+      "langchain",
+      "llamaindex"
+    ]
+  },
+  {
+    "company": "Palo Alto Networks",
+    "role": "Principal AI Software Engineer",
+    "location": "Office - USA - CA - Headquarters",
+    "type": "Full-time",
+    "posted": "2026-05-06",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-AI-Software-Engineer_JR-016015",
+    "skills": [
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "langchain",
+      "langgraph",
+      "rag"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Senior Staff Machine Learning Engineer, Post Training",
+    "location": "Remote - USA",
+    "type": "Full-time",
+    "posted": "2026-05-05",
+    "url": "https://careers.airbnb.com/positions/7858738?gh_jid=7858738",
+    "skills": [
+      "python",
+      "pytorch",
+      "llm fine-tuning",
+      "model optimization",
+      "inference optimization",
+      "reinforcement learning"
+    ]
+  },
+  {
+    "company": "Pendo",
+    "role": "Staff Software Engineer (AI)",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "posted": "2026-05-05",
+    "url": "https://job-boards.greenhouse.io/pendo/jobs/8533499002",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "transformers",
+      "diffusion_models",
+      "langchain"
+    ]
+  },
+  {
+    "company": "Pendo",
+    "role": "Sr. Software Engineer (AI)",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "posted": "2026-05-05",
+    "url": "https://job-boards.greenhouse.io/pendo/jobs/8533495002",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "agentic_workflows",
+      "transformers",
+      "diffusion_models"
+    ]
+  },
+  {
+    "company": "Coupa Software",
+    "role": "Lead AI Engineer - 11510",
+    "location": "Mexico City, Mexico",
+    "type": "Full-time",
+    "posted": "2026-05-05",
+    "url": "https://jobs.lever.co/coupa/fe235432-eaa5-41d6-aa57-b03aa246c851/apply",
+    "skills": [
+      "python",
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "rag",
+      "evals"
+    ]
+  },
+  {
+    "company": "InMobi",
+    "role": "SDE III Gen AI",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "posted": "2026-05-05",
+    "url": "https://job-boards.greenhouse.io/inmobi/jobs/7548045",
+    "skills": [
+      "generative ai",
+      "llm",
+      "rag",
+      "vector databases",
+      "multimodal ai",
+      "microservices"
+    ]
+  },
+  {
+    "company": "Wise",
+    "role": "Senior Software Engineer - Contact Automation - AI ",
+    "location": "Budapest, , Hungary",
+    "type": "Full-time",
+    "posted": "2026-05-05",
+    "url": "",
+    "skills": [
+      "java",
+      "python",
+      "typescript",
+      "kafka",
+      "aws_bedrock",
+      "rag"
+    ]
+  },
+  {
+    "company": "Workday",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Canada, ON, Toronto",
+    "type": "Full-time",
+    "posted": "2026-05-05",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Senior-Machine-Learning-Engineer_JR-0106107",
+    "skills": [
+      "python",
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "huggingface",
+      "llm"
+    ]
+  },
+  {
+    "company": "Euronext",
+    "role": "Senior AI Software Engineer",
+    "location": "Porto",
+    "type": "Full-time",
+    "posted": "2026-05-05",
+    "url": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Porto/Senior-NET---AI-Software-Engineer_R26037",
+    "skills": [
+      "python",
+      "c#",
+      ".net",
+      ".net core",
+      "aws",
+      "azure"
+    ]
+  },
+  {
+    "company": "Palo Alto Networks",
+    "role": "Sr Staff Engineer Software - NetSec - Bangalore",
+    "location": "Office - India - Bangalore Bagmane Tech Park",
+    "type": "Full-time",
+    "posted": "2026-05-05",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---India---Bangalore-Bagmane-Tech-Park/Sr-Staff-Engineer-Software---NetSec---Bangalore_JR-016727",
+    "skills": [
+      "c",
+      "python",
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "rag"
+    ]
+  },
+  {
+    "company": "Hippocratic AI",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Menlo Park",
+    "type": "FullTime",
+    "posted": "2026-05-04",
+    "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/efa7cccb-e8f3-49a1-ab2e-2e5dc56107b7/application",
+    "skills": [
+      "llm",
+      "evaluation",
+      "benchmarking",
+      "synthetic_data_generation",
+      "python",
+      "pytorch"
+    ]
+  },
+  {
+    "company": "Sumo Logic",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Noida, Uttar Pradesh, India",
+    "type": "Full-time",
+    "posted": "2026-05-04",
+    "url": "https://job-boards.greenhouse.io/sumologic/jobs/7882141",
+    "skills": [
+      "python",
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "prompt_engineering",
+      "rag"
+    ]
+  },
+  {
+    "company": "Smartsheet",
+    "role": "Senior Software Engineer II - Applied AI (Remote Eligible)",
+    "location": " -REMOTE, USA-",
+    "type": "Full-time",
+    "posted": "2026-05-03",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/7849785",
+    "skills": [
+      "llm_engineer",
+      "agent_orchestration",
+      "rag_pipelines",
+      "llm_evaluation",
+      "prompt_engineering",
+      "context_engineering"
+    ]
+  },
+  {
+    "company": "Doctor On Demand",
+    "role": "Clinical Quality AI Specialist - MD/DO",
+    "location": "Remote",
+    "type": "Full-time",
+    "posted": "2026-05-01",
+    "url": "https://jobs.lever.co/includedhealth/80cba879-823c-426e-ab58-0a77b6b236e4/apply",
+    "skills": [
+      "llm",
+      "agents",
+      "rag",
+      "prompt engineering",
+      "model evaluation",
+      "guardrails"
+    ]
+  },
+  {
+    "company": "Cognition",
+    "role": "Research, Mid-Training ",
+    "location": "San Francisco",
+    "type": "FullTime",
+    "posted": "2026-05-01",
+    "url": "https://jobs.ashbyhq.com/cognition/57e1e2a1-e0a0-4448-a278-8eed035d7428/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "llm",
+      "machine_learning",
+      "data_curation",
+      "distributed_training"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "role": "Senior Software AI Engineer",
+    "location": "AMER - Canada - Ontario - Toronto - University Ave",
+    "type": "Full-time",
+    "posted": "2026-05-01",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Senior-Software-Engineer---Data-Engineering-and-Analytics_26WD96628",
+    "skills": [
+      "python",
+      "node.js",
+      "backend",
+      "api",
+      "rest",
+      "grpc"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Senior Software Development Engineer",
+    "location": "San Jose",
+    "type": "Full-time",
+    "posted": "2026-05-01",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer_R168097",
+    "skills": [
+      "llm",
+      "agents",
+      "distributed_systems",
+      "api_design",
+      "microservices",
+      "ci_cd"
+    ]
+  },
+  {
+    "company": "Hippocratic AI",
+    "role": "Senior Staff AI Engineer",
+    "location": "Menlo Park",
+    "type": "FullTime",
+    "posted": "2026-04-29",
+    "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/16bc4536-04ae-41c7-94f7-53b66b2572a3/application",
+    "skills": [
+      "llm",
+      "agents",
+      "speech",
+      "rag",
+      "vector_databases",
+      "python"
+    ]
+  },
+  {
+    "company": "Hippocratic AI",
+    "role": "Staff AI Engineer",
+    "location": "Menlo Park",
+    "type": "FullTime",
+    "posted": "2026-04-29",
+    "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/f25032e8-ef97-4ef6-8656-55adb7dc3450/application",
+    "skills": [
+      "python",
+      "distributed systems",
+      "apis",
+      "data pipelines",
+      "prompt engineering",
+      "vector databases"
+    ]
+  },
+  {
+    "company": "Spotify",
+    "role": "Senior Machine Learning Engineer, Personalization, Music Understanding",
+    "location": "New York, NY",
+    "type": "Permanent",
+    "posted": "2026-04-29",
+    "url": "https://jobs.lever.co/spotify/d7c43743-2240-45b6-bc31-33e50cbaba4a/apply",
+    "skills": [
+      "llm",
+      "generative ai",
+      "nlp",
+      "machine learning",
+      "python",
+      "gcp"
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "role": "Senior Member of Technical Staff, AI Research",
+    "location": "California - Palo Alto",
+    "type": "Full-time",
+    "posted": "2026-04-29",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Senior-Member-of-Technical-Staff--AI-Reasearch_JR333832",
+    "skills": [
+      "python",
+      "c++",
+      "java",
+      "llm",
+      "agents",
+      "agent_orchestration"
+    ]
+  },
+  {
+    "company": "Stord",
+    "role": "Head of AI",
+    "location": "HQ - Atlanta, GA",
+    "type": "Full-time",
+    "posted": "2026-04-29",
+    "url": "https://stord.wd503.myworkdayjobs.com/Stord_External_Career/job/HQ---Atlanta-GA/Head-of-AI_JR101969",
+    "skills": [
+      "llm",
+      "agents",
+      "agent_orchestration",
+      "agentic_workflows",
+      "llm_integration",
+      "inference_optimization"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Machine Learning Engineer, Firefly Services",
+    "location": "Seattle",
+    "type": "Full-time",
+    "posted": "2026-04-29",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Machine-Learning-Engineer--Firefly-Services_R168300",
+    "skills": [
+      "pytorch",
+      "cuda",
+      "triton",
+      "tensorrt",
+      "nvidia dynamo",
+      "python"
+    ]
+  },
+  {
+    "company": "Lovable",
+    "role": "Researcher, Post Training",
+    "location": "Stockholm",
+    "type": "Full-time",
+    "posted": "2026-04-28",
+    "url": "https://jobs.ashbyhq.com/lovable/59d85cf1-104b-48cb-956c-bed73ef934c9/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "jax",
+      "rlhf",
+      "supervised_fine_tuning",
+      "preference_optimization"
+    ]
+  },
+  {
+    "company": "Rula",
+    "role": "Sr. Staff AI Engineer (Remote)",
+    "location": "Remote - United States",
+    "type": "Full-time",
+    "posted": "2026-04-28",
+    "url": "https://jobs.ashbyhq.com/rula/f2424794-c819-4f53-a8af-83322e617acb/application",
+    "skills": [
+      "python",
+      "aws",
+      "gcp",
+      "distributed systems",
+      "foundation models",
+      "llm integration patterns"
+    ]
+  },
+  {
+    "company": "Infinity",
+    "role": "AI Engineer - Labrynth",
+    "location": "LATAM",
+    "type": "Full-time",
+    "posted": "2026-04-28",
+    "url": "https://jobs.ashbyhq.com/infinity-constellation/bc0c66f0-7f6c-433e-9ad9-1702dbf232b5/application",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "gcp",
+      "neo4j",
+      "fastapi"
+    ]
+  },
+  {
+    "company": "Zeta Global",
+    "role": "Lead Software Engineer - Core AI",
+    "location": "Remote - United States",
+    "type": "Full-time",
+    "posted": "2026-04-27",
+    "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/5689115004",
+    "skills": [
+      "llm",
+      "agents",
+      "generative_ai",
+      "python",
+      "c#",
+      "java"
+    ]
+  },
+  {
+    "company": "Pulsora",
+    "role": "Applied AI Engineer - Canada",
+    "location": "Calgary",
+    "type": "FullTime",
+    "posted": "2026-04-27",
+    "url": "https://jobs.ashbyhq.com/Pulsora%20Inc/017c7cd9-1d7f-4430-9c4a-2099282ff06a/application",
+    "skills": [
+      "llm_engineer",
+      "agent_engineer",
+      "rag",
+      "prompt_engineering",
+      "llm_api_integration",
+      "python"
+    ]
+  },
+  {
+    "company": "Midi Health",
+    "role": "Staff Software Engineer, AI Engineer",
+    "location": "Hybrid - SF Bay Area",
+    "type": "Full-time",
+    "posted": "2026-04-24",
+    "url": "https://job-boards.greenhouse.io/midihealth/jobs/4687987005",
+    "skills": [
+      "python",
+      "ai",
+      "llm",
+      "rag",
+      "agents",
+      "mlops"
+    ]
+  },
+  {
+    "company": "Midi Health",
+    "role": "Senior Software Engineer, AI Engineer",
+    "location": "Hybrid - SF Bay Area",
+    "type": "Full-time",
+    "posted": "2026-04-24",
+    "url": "https://job-boards.greenhouse.io/midihealth/jobs/4687972005",
+    "skills": [
+      "python",
+      "llm",
+      "machine_learning",
+      "rag",
+      "prompt_engineering",
+      "system_design"
+    ]
+  },
+  {
+    "company": "Doctronic",
+    "role": "Senior AI Engineer",
+    "location": "New York City",
+    "type": "Full-time",
+    "posted": "2026-04-23",
+    "url": "https://jobs.ashbyhq.com/doctronic/a1f7662b-af9c-4705-b168-9ca12c3854ce/application",
+    "skills": [
+      "python",
+      "tensorflow",
+      "pytorch",
+      "llm",
+      "generative_ai",
+      "nlp"
+    ]
+  },
+  {
+    "company": "RingCentral",
+    "role": "Senior Chatbot AI Developer",
+    "location": "Bangalore, India",
+    "type": "Full-time",
+    "posted": "2026-04-23",
+    "url": "https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Bangalore-India/Senior-Chatbot-AI-Developer_R077678",
+    "skills": [
+      "llm",
+      "nlp",
+      "agents",
+      "python",
+      "javascript",
+      "dialogflow"
+    ]
+  },
+  {
+    "company": "Artefact",
+    "role": "Data & AI Engineer",
+    "location": "Stationsplein 32, 3511 ED Utrecht",
+    "type": "Full-time",
+    "posted": "2026-04-22",
+    "url": "https://job-boards.greenhouse.io/artefact/jobs/8517938002",
+    "skills": [
+      "python",
+      "sql",
+      "dbt",
+      "spark",
+      "airflow",
+      "llm"
+    ]
+  },
+  {
+    "company": "Yuno",
+    "role": "Senior AI Engineer",
+    "location": "Colombia",
+    "type": "Full-time",
+    "posted": "2026-04-22",
+    "url": "https://jobs.lever.co/yuno/b9f6564b-e5fb-49ec-b987-e2734353b775/apply",
+    "skills": [
+      "llm",
+      "prompt engineering",
+      "python",
+      "tensorflow",
+      "pytorch",
+      "api integration"
+    ]
+  },
+  {
+    "company": "OKX",
+    "role": "Director, AI & Chatbot",
+    "location": "Kuala Lumpur, Malaysia",
+    "type": "Full-time",
+    "posted": "2026-04-22",
+    "url": "https://job-boards.greenhouse.io/okx/jobs/7710479003",
+    "skills": [
+      "llm",
+      "nlp",
+      "rag",
+      "prompt_engineering",
+      "model_evaluation",
+      "conversational_ai"
+    ]
+  },
+  {
+    "company": "Airbnb",
+    "role": "Senior Staff Machine Learning Engineer, Data & Eval",
+    "location": "United States",
+    "type": "Full-time",
+    "posted": "2026-04-22",
+    "url": "https://careers.airbnb.com/positions/6757302?gh_jid=6757302",
+    "skills": [
+      "llm_evaluation",
+      "rag",
+      "agent_orchestration",
+      "llm_fine_tuning",
+      "mlops",
+      "data_pipelines"
+    ]
+  },
+  {
+    "company": "Metropolis Technologies",
+    "role": "Senior AI Engineer",
+    "location": "Seattle, Washington, United States",
+    "type": "Full-time",
+    "posted": "2026-04-22",
+    "url": "https://job-boards.greenhouse.io/metropolis/jobs/7693674003",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "sql",
+      "snowflake",
+      "aws"
+    ]
+  },
+  {
+    "company": "Metropolis Technologies",
+    "role": "Senior AI Engineer",
+    "location": "Los Angeles, California, United States",
+    "type": "Full-time",
+    "posted": "2026-04-22",
+    "url": "https://job-boards.greenhouse.io/metropolis/jobs/7693675003",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "sql",
+      "snowflake",
+      "aws"
+    ]
+  },
+  {
+    "company": "Metropolis Technologies",
+    "role": "Senior AI Engineer",
+    "location": "New York, New York, United States",
+    "type": "Full-time",
+    "posted": "2026-04-22",
+    "url": "https://job-boards.greenhouse.io/metropolis/jobs/7693671003",
+    "skills": [
+      "python",
+      "llm",
+      "rag",
+      "sql",
+      "snowflake",
+      "aws"
+    ]
+  },
+  {
+    "company": "Reflection",
+    "role": "Forward Deployed Engineer - LLM Post-training",
+    "location": "San Francisco",
+    "type": "Full-time",
+    "posted": "2026-04-22",
+    "url": "https://jobs.ashbyhq.com/reflectionai/9e0c3947-a4ca-4c09-b0e8-dfaf634f33d7/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "sft",
+      "dpo",
+      "rlhf",
+      "llm"
+    ]
+  },
+  {
+    "company": "poolside",
+    "role": "Member of Engineering (Post-training)",
+    "location": "Remote (EMEA/East Coast)",
+    "type": "Full-time",
+    "posted": "2026-04-21",
+    "url": "https://jobs.ashbyhq.com/poolside/7662c253-27bf-4a64-a52a-ecd221887993/application",
+    "skills": [
+      "python",
+      "pytorch",
+      "jax",
+      "llm",
+      "transformers",
+      "deep learning"
+    ]
+  },
+  {
+    "company": "US Mobile",
+    "role": "AI / ML Engineer",
+    "location": "Montreal / Toronto",
+    "type": "Full-time",
+    "posted": "2026-04-21",
+    "url": "https://jobs.lever.co/USMobile/2dc80292-5112-4be2-909b-499b0b651a1f/apply",
+    "skills": [
+      "llm_engineer",
+      "agent_orchestration",
+      "rag",
+      "prompt_engineering",
+      "transformer_models",
+      "embeddings"
+    ]
+  },
+  {
+    "company": "MeridianLink",
+    "role": "Staff Software Engineer - AI Products",
+    "location": "US Remote",
+    "type": "Full-time",
+    "posted": "2026-04-21",
+    "url": "https://jobs.ashbyhq.com/meridianlink/51a535e2-60c0-486e-b86a-c2b9cad48a5a/application",
+    "skills": [
+      "python",
+      "react",
+      "typescript",
+      "aws",
+      "restful api",
+      "fastapi"
+    ]
+  },
+  {
+    "company": "Athelas",
+    "role": "Senior Software Engineer, Evals and AI Infra",
+    "location": "Mountain View, CA",
+    "type": "FullTime",
+    "posted": "2026-04-21",
+    "url": "https://jobs.ashbyhq.com/Commure/a3fe5097-be5d-4973-96f7-617906c46157/application",
+    "skills": [
+      "python",
+      "flask",
+      "django",
+      "fastapi",
+      "docker",
+      "kubernetes"
+    ]
+  },
+  {
+    "company": "Pulsora",
+    "role": "AI Engineer - United States",
+    "location": "Remote United States",
+    "type": "FullTime",
+    "posted": "2026-04-21",
+    "url": "https://jobs.ashbyhq.com/Pulsora%20Inc/030c8e56-a7df-4986-b8af-104a1c9ec701/application",
+    "skills": [
+      "llm",
+      "generative_ai",
+      "agent_orchestration",
+      "rag_pipelines",
+      "vector_databases",
+      "llm_fine_tuning"
+    ]
+  },
+  {
+    "company": "Pulsora",
+    "role": "Applied AI Engineer - India",
+    "location": "India",
+    "type": "FullTime",
+    "posted": "2026-04-21",
+    "url": "https://jobs.ashbyhq.com/Pulsora%20Inc/9ca9c174-6b07-4373-b255-ee526d27a986/application",
+    "skills": [
+      "llm_engineer",
+      "agent_engineer",
+      "rag",
+      "prompt_engineering",
+      "llm_api_integration",
+      "python"
+    ]
+  },
+  {
+    "company": "Pulsora",
+    "role": "Applied AI Engineer - US",
+    "location": "Remote United States",
+    "type": "FullTime",
+    "posted": "2026-04-21",
+    "url": "https://jobs.ashbyhq.com/Pulsora%20Inc/40114f0d-d976-43b6-867c-23e52d6c6fff/application",
+    "skills": [
+      "llm_engineer",
+      "agent_engineer",
+      "rag",
+      "prompt_engineering",
+      "llm_api_integration",
+      "python"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Senior Machine Learning Engineer",
+    "location": "Noida",
+    "type": "Full-time",
+    "posted": "2026-04-21",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Machine-Learning-Engineer_R167945",
+    "skills": [
+      "generative AI",
+      "foundation models",
+      "LLM",
+      "diffusion models",
+      "transformer models",
+      "GAN"
+    ]
+  },
+  {
+    "company": "Frame.io",
+    "role": "Machine Learning Engineer - II",
+    "location": "Noida",
+    "type": "Full-time",
+    "posted": "2026-04-21",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer---II_R167946",
+    "skills": [
+      "generative AI",
+      "foundation models",
+      "LLM",
+      "multimodal models",
+      "model pipelines",
+      "backend services"
+    ]
+  },
+  {
+    "company": "Hippocratic AI",
+    "role": "Senior Staff AI Engineer",
+    "location": "Menlo Park",
+    "type": "FullTime",
+    "posted": "2026-04-20",
+    "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/af39c865-a9ab-403e-8746-79dec87d6ad0/application",
+    "skills": [
+      "llm",
+      "agents",
+      "speech",
+      "rag",
+      "vector_databases",
+      "python"
+    ]
+  }
+]
