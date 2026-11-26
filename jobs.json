@@ -1939,37 +1939,6 @@
     ]
   },
   {
-    "dedupeKey": "job:14850c57-19ab-4382-a19d-3d15b113d590",
-    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
-    "company": "Anduril Industries",
-    "companyDomain": "anduril.com",
-    "role": "Infra Software Engineer, Agentic Runtime",
-    "applyUrl": "https://go.landed.jobs/dnksz94",
-    "location": "Washington, D.C., DC · Costa Mesa, CA",
-    "locations": [
-      "Washington, D.C., DC",
-      "Costa Mesa, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Infrastructure-as-Code",
-      "Docker",
-      "Kubernetes",
-      "CI/CD pipelines",
-      "ML infrastructure for post-training",
-      "SITL and HITL simulation infrastructure"
-    ],
-    "posted": "2026-10-27T18:09:26.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$61B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:41425e4a-6c2f-47be-b1c9-bb9f2e6fb6ed",
     "companyId": "company_4f814c75bf30a0cc63f884411481449c",
     "company": "Notion",
@@ -4977,6 +4946,32 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:0bfbbf91-38f2-4840-897b-1e1287292d7f",
+    "companyId": "company_fde271a15d118b0044779e02dba5c0d3",
+    "company": "Wiley",
+    "companyDomain": "wiley.com",
+    "role": "Prototyping and Tools Developer",
+    "applyUrl": "https://go.landed.jobs/azfnc10",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "LLM",
+      "prompt engineering",
+      "observability"
+    ],
+    "posted": "2026-11-20T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:85ad9ceb-4741-4cb8-9b40-f59582a8a4ed",
     "companyId": "company_1f3f9dc2f335e7d06ea0ea290e313f4c",
     "company": "Ampersand",
@@ -5118,6 +5113,43 @@
     "companyBadges": [
       "$520M valuation",
       "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:301ec7f6-1462-4f32-bcf5-0d64f45b5225",
+    "companyId": "company_068513930fd0ce14faebc7cf95c8d39f",
+    "company": "Maxar",
+    "companyDomain": "maxar.com",
+    "role": "Senior AI Software Engineer (TS/SCI)",
+    "applyUrl": "https://go.landed.jobs/zg01v3h",
+    "location": "Herndon, VA +2",
+    "locations": [
+      "Herndon, VA",
+      "St. Louis, MO",
+      "Westminster, CO"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "LLM",
+      "retrieval-augmented generation",
+      "vector search",
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "Java",
+      "Go",
+      "CI/CD",
+      "REST APIs",
+      "microservices",
+      "React"
+    ],
+    "posted": "2026-11-19T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$6.4B valuation"
     ]
   },
   {
@@ -5745,6 +5777,28 @@
     "companyBadges": [
       "Series A"
     ]
+  },
+  {
+    "dedupeKey": "job:86327eef-bab2-4f87-bcfa-2bcc7019ff18",
+    "companyId": "company_9975d025829b9d97cd21ec15b32ddc0f",
+    "company": "Western Governors University",
+    "companyDomain": "wgu.edu",
+    "role": "Agentic Workflow Engineer",
+    "applyUrl": "https://go.landed.jobs/c8r0p0q",
+    "location": "Salt Lake City, UT",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "agentic workflows"
+    ],
+    "posted": "2026-11-12T00:00:00.000Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:bf926a56-73ad-4d32-bd6e-3d538df91458",
@@ -7067,6 +7121,37 @@
     "posted": "2026-10-27T18:35:30.000Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:14850c57-19ab-4382-a19d-3d15b113d590",
+    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
+    "company": "Anduril Industries",
+    "companyDomain": "anduril.com",
+    "role": "Infra Software Engineer, Agentic Runtime",
+    "applyUrl": "https://go.landed.jobs/dnksz94",
+    "location": "Washington, D.C., DC · Costa Mesa, CA",
+    "locations": [
+      "Washington, D.C., DC",
+      "Costa Mesa, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "Infrastructure-as-Code",
+      "Docker",
+      "Kubernetes",
+      "CI/CD pipelines",
+      "ML infrastructure for post-training",
+      "SITL and HITL simulation infrastructure"
+    ],
+    "posted": "2026-10-27T18:09:26.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$61B valuation"
+    ]
   },
   {
     "dedupeKey": "job:7fce526d-fe70-4194-bc36-7694e72ba01e",
@@ -8679,90 +8764,6 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$239B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:92788042-91f5-4d27-8b21-12e667ccac3a",
-    "companyId": "company_e41a97aa99e291b0a2e219a8605cd8ca",
-    "company": "Genesys",
-    "companyDomain": "genesys.com",
-    "role": "Principal, AI Software Engineer– Agentic & Industry Solutions",
-    "applyUrl": "https://go.landed.jobs/pb7w2b4",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Texas, TX",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "principal",
-    "skills": [
-      "observability"
-    ],
-    "posted": "2026-10-07T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$20B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:a2ad376e-f0db-4af3-8f9f-9f1a7fe819b4",
-    "companyId": "company_496a9a7de0a1eb537f6db5d919ea81a0",
-    "company": "Intel",
-    "companyDomain": "intel.com",
-    "role": "Senior AI Systems and Solutions Architect – Agentic AI and CPU Host",
-    "applyUrl": "https://go.landed.jobs/rdadbsh",
-    "location": "Hillsboro, OR +3",
-    "locations": [
-      "Hillsboro, OR",
-      "Folsom, CA",
-      "Santa Clara, CA",
-      "Phoenix, AZ"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-10-07T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$455B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:21183582-29f7-44da-a5b7-0bd5161d4632",
-    "companyId": "company_0b9e2cf327111f9b204bd22d661e0e65",
-    "company": "Knowtex",
-    "companyDomain": "knowtex.ai",
-    "role": "ML Engineer, LLM's",
-    "applyUrl": "https://go.landed.jobs/xxg0gsa",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "mid",
-    "skills": [
-      "Large Language Models",
-      "fine-tuning",
-      "Python",
-      "PyTorch",
-      "distributed training",
-      "LLM evaluation",
-      "vLLM",
-      "agentic systems",
-      "NLP"
-    ],
-    "posted": "2026-10-06T22:01:55.974Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S22",
-      "Seed"
     ]
   }
 ]
